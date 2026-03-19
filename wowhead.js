@@ -1,8 +1,19 @@
 /**
- * Looks up the French name of a WoW NPC given its English name.
- * Uses Wowhead's suggestion API to find the NPC ID,
- * then the tooltip API with locale=2 (French) to get the translated name.
+ * Looks up translated NPC names via Wowhead APIs.
+ * Uses the suggestion API to find the NPC ID,
+ * then the tooltip API with a locale param to get the translated name.
  */
+
+const WOWHEAD_LOCALES = {
+  en: 0,
+  ko: 1,
+  fr: 2,
+  de: 3,
+  zh: 4,
+  es: 6,
+  ru: 7,
+  pt: 8,
+};
 
 export async function getNpcId(name) {
   const url = `https://www.wowhead.com/classic/search/suggestions-template?q=${encodeURIComponent(name)}`;
@@ -16,17 +27,24 @@ export async function getNpcId(name) {
   return match.id;
 }
 
-export async function getFrenchName(npcId) {
-  const url = `https://nether.wowhead.com/classic/tooltip/npc/${npcId}?locale=2`;
+export async function getLocalizedName(npcId, locale = "fr") {
+  const localeId = WOWHEAD_LOCALES[locale];
+  if (localeId === undefined) {
+    throw new Error(`Unknown locale "${locale}". Available: ${Object.keys(WOWHEAD_LOCALES).join(", ")}`);
+  }
+  const url = `https://nether.wowhead.com/classic/tooltip/npc/${npcId}?locale=${localeId}`;
   const res = await fetch(url);
   const data = await res.json();
   return data.name;
 }
 
-export async function lookupNpcFr(englishName) {
+export async function lookupNpc(englishName, locale = "fr") {
   const id = await getNpcId(englishName);
   if (!id) {
     return null;
   }
-  return getFrenchName(id);
+  return getLocalizedName(id, locale);
 }
+
+// Backwards-compatible alias
+export const lookupNpcFr = (englishName) => lookupNpc(englishName, "fr");
