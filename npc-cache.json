@@ -3,5 +3,725 @@
     "en": "Lord Darkscythe",
     "fr": "Seigneur Sombrefaux",
     "de": "Lord Finstersense"
+  },
+  "Ranger Lord Hawkspear": {
+    "en": "Ranger Lord Hawkspear",
+    "fr": "Seigneur forestier Hawspear"
+  },
+  "Death Knight Soulbearer": {
+    "en": "Death Knight Soulbearer",
+    "fr": "Chevalier de la mort Porte-l'âme"
+  },
+  "Hed'mush the Rotting": {
+    "en": "Hed'mush the Rotting",
+    "fr": "Hed'mush le Pourrissant"
+  },
+  "Zul'Brin Warpbranch": {
+    "en": "Zul'Brin Warpbranch",
+    "fr": "Zul'Brin Warpbranch"
+  },
+  "Gish the Unmoving": {
+    "en": "Gish the Unmoving",
+    "fr": "Gish l'Immobile"
+  },
+  "Death Flayer": {
+    "en": "Death Flayer",
+    "fr": "Ecorcheur mortel"
+  },
+  "Lord Malathrom": {
+    "en": "Lord Malathrom",
+    "fr": "Seigneur Malathrom"
+  },
+  "Oozeworm": {
+    "en": "Oozeworm",
+    "fr": "Ver de limon"
+  },
+  "Clack the Reaver": {
+    "en": "Clack the Reaver",
+    "fr": "Clack le Ravageur"
+  },
+  "Malfunctioning Reaver": {
+    "en": "Malfunctioning Reaver",
+    "fr": "Ravageur défectueux"
+  },
+  "Thauris Balgarr": {
+    "en": "Thauris Balgarr",
+    "fr": "Thauris Balgarr"
+  },
+  "Lady Moongazer": {
+    "en": "Lady Moongazer",
+    "fr": "Dame Moongazer"
+  },
+  "Giggler": {
+    "en": "Giggler",
+    "fr": "Glousse"
+  },
+  "Kaskk": {
+    "en": "Kaskk",
+    "fr": "Kaskk"
+  },
+  "Staggon": {
+    "en": "Staggon",
+    "fr": "Staggon"
+  },
+  "Oakpaw": {
+    "en": "Oakpaw",
+    "fr": "Chênepatte"
+  },
+  "Branch Snapper": {
+    "en": "Branch Snapper",
+    "fr": "Brise-branche"
+  },
+  "Lady Vespia": {
+    "en": "Lady Vespia",
+    "fr": "Dame Vespia"
+  },
+  "Tormented Spirit": {
+    "en": "Tormented Spirit",
+    "fr": "Esprit tourmenté"
+  },
+  "Cranky Benj": {
+    "en": "Cranky Benj",
+    "fr": "Benj le teigneux"
+  },
+  "Heggin Stonewhisker": {
+    "en": "Heggin Stonewhisker",
+    "fr": "Heggin Stonewhisker"
+  },
+  "Captain Gerogg Hammertoe": {
+    "en": "Captain Gerogg Hammertoe",
+    "fr": "Capitaine Gerogg Hammertoe"
+  },
+  "Sludge Beast": {
+    "en": "Sludge Beast",
+    "fr": "Limace bestiale"
+  },
+  "Magister Hawkhelm": {
+    "en": "Magister Hawkhelm",
+    "fr": "Magistère Hawkhelm"
+  },
+  "Sergeant Brashclaw": {
+    "en": "Sergeant Brashclaw",
+    "fr": "Sergent Brashclaw"
+  },
+  "Foe Reaper 4000": {
+    "en": "Foe Reaper 4000",
+    "fr": "Découpeur 4000"
+  },
+  "Marisa du'Paige": {
+    "en": "Marisa du'Paige",
+    "fr": "Marisa du'Paige"
+  },
+  "Warlord Kolkanis": {
+    "en": "Warlord Kolkanis",
+    "fr": "Seigneur de guerre Kolkanis"
+  },
+  "Mezzir the Howler": {
+    "en": "Mezzir the Howler",
+    "fr": "Mezzir le hurleur"
+  },
+  "Garneg Charskull": {
+    "en": "Garneg Charskull",
+    "fr": "Garneg Charskull"
+  },
+  "General Colbatann": {
+    "en": "General Colbatann",
+    "fr": "Général Colbatann"
+  },
+  "Kashoch the Reaver": {
+    "en": "Kashoch the Reaver",
+    "fr": "Kashoch le ravageur"
+  },
+  "Engineer Whirleygig": {
+    "en": "Engineer Whirleygig",
+    "fr": "Ingénieur Whirleygig"
+  },
+  "Ambassador Bloodrage": {
+    "en": "Ambassador Bloodrage",
+    "fr": "Ambassadeur Ragesang"
+  },
+  "Old Cliff Jumper": {
+    "en": "Old Cliff Jumper",
+    "fr": "Vieux Saute-falaise"
+  },
+  "Stone Fury": {
+    "en": "Stone Fury",
+    "fr": "Furie-de-pierre"
+  },
+  "Skhowl": {
+    "en": "Skhowl",
+    "fr": "Grybou"
+  },
+  "Araga": {
+    "en": "Araga",
+    "fr": "Araga"
+  },
+  "Lo'Grosh": {
+    "en": "Lo'Grosh",
+    "fr": "Lo'Grosh"
+  },
+  "Gravis Slipknot": {
+    "en": "Gravis Slipknot",
+    "fr": "Gravis Slipknot"
+  },
+  "Geomancer Flintdagger": {
+    "en": "Geomancer Flintdagger",
+    "fr": "Géomancien Dague-de-silex"
+  },
+  "Darbel Montrose": {
+    "en": "Darbel Montrose",
+    "fr": "Darbel Montrose"
+  },
+  "Scarlet High Clerist": {
+    "en": "Scarlet High Clerist",
+    "fr": "Grand prêtre écarlate"
+  },
+  "Foreman Marcrid": {
+    "en": "Foreman Marcrid",
+    "fr": "Contremaître Marcrid"
+  },
+  "Vultros": {
+    "en": "Vultros",
+    "fr": "Vultros"
+  },
+  "Snort the Heckler": {
+    "en": "Snort the Heckler",
+    "fr": "Snort la Moqueuse"
+  },
+  "Stonearm": {
+    "en": "Stonearm",
+    "fr": "Bras-de-pierre"
+  },
+  "Thora Feathermoon": {
+    "en": "Thora Feathermoon",
+    "fr": "Thora Feathermoon"
+  },
+  "Ravage": {
+    "en": "Ravage",
+    "fr": "Ravage"
+  },
+  "Dreadscorn": {
+    "en": "Dreadscorn",
+    "fr": "Dériseffroi"
+  },
+  "Ruul Onestone": {
+    "en": "Ruul Onestone",
+    "fr": "Ruul Onestone"
+  },
+  "Ursol'lok": {
+    "en": "Ursol'lok",
+    "fr": "Ursol'lok"
+  },
+  "Mist Howler": {
+    "en": "Mist Howler",
+    "fr": "Hurleur des brumes"
+  },
+  "Terrowulf Packlord": {
+    "en": "Terrowulf Packlord",
+    "fr": "Chef de meute Frayeloup"
+  },
+  "Deatheye": {
+    "en": "Deatheye",
+    "fr": "Oeil-de-mort"
+  },
+  "Mojo the Twisted": {
+    "en": "Mojo the Twisted",
+    "fr": "Mojo le Tordu"
+  },
+  "Roloch": {
+    "en": "Roloch",
+    "fr": "Roloch"
+  },
+  "High Priestess Hai'watna": {
+    "en": "High Priestess Hai'watna",
+    "fr": "Grande prêtresse Hai'watna"
+  },
+  "Dreamwatcher Forktongue": {
+    "en": "Dreamwatcher Forktongue",
+    "fr": "Gardien des rêves Langue-fourchue"
+  },
+  "Lord Captain Wyrmak": {
+    "en": "Lord Captain Wyrmak",
+    "fr": "Seigneur-capitaine Wyrmak"
+  },
+  "Molt Thorn": {
+    "en": "Molt Thorn",
+    "fr": "Rougeronce"
+  },
+  "Fingat": {
+    "en": "Fingat",
+    "fr": "Fingat"
+  },
+  "Gilmorian": {
+    "en": "Gilmorian",
+    "fr": "Gilmorian"
+  },
+  "Mugglefin": {
+    "en": "Mugglefin",
+    "fr": "Moldaileron"
+  },
+  "Scalebeard": {
+    "en": "Scalebeard",
+    "fr": "Barbe-d'écailles"
+  },
+  "Rot Hide Bruiser": {
+    "en": "Rot Hide Bruiser",
+    "fr": "Cogneur Poil-Putride"
+  },
+  "Sentinel Amarassan": {
+    "en": "Sentinel Amarassan",
+    "fr": "Sentinelle Amarassan"
+  },
+  "Lord Sinslayer": {
+    "en": "Lord Sinslayer",
+    "fr": "Seigneur Salvassio"
+  },
+  "Varo'then's Ghost": {
+    "en": "Varo'then's Ghost",
+    "fr": "Fantôme de Varo'then"
+  },
+  "Barnabus": {
+    "en": "Barnabus",
+    "fr": "Barnabus"
+  },
+  "War Golem": {
+    "en": "War Golem",
+    "fr": "Golem de guerre"
+  },
+  "Leech Widow": {
+    "en": "Leech Widow",
+    "fr": "Veuve sanguine"
+  },
+  "Scargil": {
+    "en": "Scargil",
+    "fr": "Scargil"
+  },
+  "Lady Zephris": {
+    "en": "Lady Zephris",
+    "fr": "Dame Zephris"
+  },
+  "Grizlak": {
+    "en": "Grizlak",
+    "fr": "Grizlak"
+  },
+  "Large Loch Crocolisk": {
+    "en": "Large Loch Crocolisk",
+    "fr": "Grand crocilisque du loch"
+  },
+  "Emogg the Crusher": {
+    "en": "Emogg the Crusher",
+    "fr": "Emogg le Broyeur"
+  },
+  "Magosh": {
+    "en": "Magosh",
+    "fr": "Magosh"
+  },
+  "Ghost Howl": {
+    "en": "Ghost Howl",
+    "fr": "Hurleur fantomatique"
+  },
+  "Mazzranache": {
+    "en": "Mazzranache",
+    "fr": "Mazzranache"
+  },
+  "Prince Nazjak": {
+    "en": "Prince Nazjak",
+    "fr": "Prince Nazjak"
+  },
+  "The Reak": {
+    "en": "The Reak",
+    "fr": "Le Jonc"
+  },
+  "Retherokk the Berserker": {
+    "en": "Retherokk the Berserker",
+    "fr": "Retherokk le Berserker"
+  },
+  "Mith'rethis the Enchanter": {
+    "en": "Mith'rethis the Enchanter",
+    "fr": "Mith'rethis l'Enchanteur"
+  },
+  "Jalinde Summerdrake": {
+    "en": "Jalinde Summerdrake",
+    "fr": "Jalinde Summerdrake"
+  },
+  "Harb Foulmountain": {
+    "en": "Harb Foulmountain",
+    "fr": "Harb Foulmountain"
+  },
+  "Sri'skulk": {
+    "en": "Sri'skulk",
+    "fr": "Sri'skulk"
+  },
+  "Ressan the Needler": {
+    "en": "Ressan the Needler",
+    "fr": "Ressan le Harceleur"
+  },
+  "Farmer Solliden": {
+    "en": "Farmer Solliden",
+    "fr": "Fermier de Solliden"
+  },
+  "Gruff": {
+    "en": "Gruff",
+    "fr": "Gruff"
+  },
+  "Clutchmother Zavas": {
+    "en": "Clutchmother Zavas",
+    "fr": "Matriarche Zavas"
+  },
+  "Nimar the Slayer": {
+    "en": "Nimar the Slayer",
+    "fr": "Nimar le Pourfendeur"
+  },
+  "Shleipnarr": {
+    "en": "Shleipnarr",
+    "fr": "Shleipnarr"
+  },
+  "Rex Ashil": {
+    "en": "Rex Ashil",
+    "fr": "Rex Ashil"
+  },
+  "Gamon": {
+    "en": "Gamon",
+    "fr": "Gamon"
+  },
+  "Greater Firebird": {
+    "en": "Greater Firebird",
+    "fr": "Grand oiseau de feu"
+  },
+  "Jin'Zallah the Sandbringer": {
+    "en": "Jin'Zallah the Sandbringer",
+    "fr": "Jin'Zallah Porte-sable"
+  },
+  "Dragonmaw Battlemaster": {
+    "en": "Dragonmaw Battlemaster",
+    "fr": "Maître de guerre Dragonmaw"
+  },
+  "Azurous": {
+    "en": "Azurous",
+    "fr": "Azurous"
+  },
+  "Brack": {
+    "en": "Brack",
+    "fr": "Brack"
+  },
+  "The Husk": {
+    "en": "The Husk",
+    "fr": "La Bogue"
+  },
+  "Scarlet Smith": {
+    "en": "Scarlet Smith",
+    "fr": "Forgeron écarlate"
+  },
+  "Antilus the Soarer": {
+    "en": "Antilus the Soarer",
+    "fr": "Antilus le Planeur"
+  },
+  "Lady Szallah": {
+    "en": "Lady Szallah",
+    "fr": "Dame Szallah"
+  },
+  "Vengeful Ancient": {
+    "en": "Vengeful Ancient",
+    "fr": "Ancien vengeur"
+  },
+  "Pridewing Patriarch": {
+    "en": "Pridewing Patriarch",
+    "fr": "Patriarche Aile-fière"
+  },
+  "Taskmaster Whipfang": {
+    "en": "Taskmaster Whipfang",
+    "fr": "Sous-chef Fouettecroc"
+  },
+  "Kurmokk": {
+    "en": "Kurmokk",
+    "fr": "Kurmokk"
+  },
+  "Verifonix": {
+    "en": "Verifonix",
+    "fr": "Verifonix"
+  },
+  "Rippa": {
+    "en": "Rippa",
+    "fr": "Rippa"
+  },
+  "Gluggle": {
+    "en": "Gluggle",
+    "fr": "Gluggle"
+  },
+  "Lord Sakrasis": {
+    "en": "Lord Sakrasis",
+    "fr": "Seigneur Sakrasis"
+  },
+  "Gruff Swiftbite": {
+    "en": "Gruff Swiftbite",
+    "fr": "Gruff Mord-vite"
+  },
+  "Immolatus": {
+    "en": "Immolatus",
+    "fr": "Immolatus"
+  },
+  "Alshirr Banebreath": {
+    "en": "Alshirr Banebreath",
+    "fr": "Alshirr Souffléau"
+  },
+  "Chatter": {
+    "en": "Chatter",
+    "fr": "Cliqueteuse"
+  },
+  "Boulderheart": {
+    "en": "Boulderheart",
+    "fr": "Rochecoeur"
+  },
+  "Ironeye the Invincible": {
+    "en": "Ironeye the Invincible",
+    "fr": "Ferregard l’Invincible"
+  },
+  "Heartrazor": {
+    "en": "Heartrazor",
+    "fr": "Tranchecoeur"
+  },
+  "Silithid Ravager": {
+    "en": "Silithid Ravager",
+    "fr": "Ravageur  silithide"
+  },
+  "Darkmist Widow": {
+    "en": "Darkmist Widow",
+    "fr": "Veuve de Sombrebrume"
+  },
+  "Zaricotl": {
+    "en": "Zaricotl",
+    "fr": "Zaricotl"
+  },
+  "7:XT": {
+    "en": "7:XT",
+    "fr": "7:XT"
+  },
+  "Shadowforge Commander": {
+    "en": "Shadowforge Commander",
+    "fr": "Commandant Ombreforge"
+  },
+  "Rumbler": {
+    "en": "Rumbler",
+    "fr": "Grondeur"
+  },
+  "Anathemus": {
+    "en": "Anathemus",
+    "fr": "Anathemus"
+  },
+  "Broken Tooth": {
+    "en": "Broken Tooth",
+    "fr": "Brèchedent"
+  },
+  "Humar the Pridelord": {
+    "en": "Humar the Pridelord",
+    "fr": "Humar le Fier"
+  },
+  "Azzere the Skyblade": {
+    "en": "Azzere the Skyblade",
+    "fr": "Azzere la lame céleste"
+  },
+  "Dishu": {
+    "en": "Dishu",
+    "fr": "Dishu"
+  },
+  "Lost Soul": {
+    "en": "Lost Soul",
+    "fr": "Ame égarée"
+  },
+  "Scarlet Judge": {
+    "en": "Scarlet Judge",
+    "fr": "Juge écarlate"
+  },
+  "Scarlet Executioner": {
+    "en": "Scarlet Executioner",
+    "fr": "Bourreau écarlate"
+  },
+  "Nerubian Overseer": {
+    "en": "Nerubian Overseer",
+    "fr": "Surveillant nérubien"
+  },
+  "Duke Ragereaver": {
+    "en": "Duke Ragereaver",
+    "fr": "Duc Ravarage"
+  },
+  "Arash-ethis": {
+    "en": "Arash-ethis",
+    "fr": "Arash-ethis"
+  },
+  "Lord Condar": {
+    "en": "Lord Condar",
+    "fr": "Seigneur Condar"
+  },
+  "Akubar the Seer": {
+    "en": "Akubar the Seer",
+    "fr": "Akubar le Prophète"
+  },
+  "Magronos the Unyielding": {
+    "en": "Magronos the Unyielding",
+    "fr": "Magronos l'Inflexible"
+  },
+  "Commander Felstrom": {
+    "en": "Commander Felstrom",
+    "fr": "Commandant Gangretrombe"
+  },
+  "Drogoth the Roamer": {
+    "en": "Drogoth the Roamer",
+    "fr": "Dorgoth le Vagabond"
+  },
+  "Scarlet Interrogator": {
+    "en": "Scarlet Interrogator",
+    "fr": "Inquisiteur écarlate"
+  },
+  "Foreman Jerris": {
+    "en": "Foreman Jerris",
+    "fr": "Contremaître Jerris"
+  },
+  "Gibblewilt": {
+    "en": "Gibblewilt",
+    "fr": "Gibblewilt"
+  },
+  "Captain Flat Tusk": {
+    "en": "Captain Flat Tusk",
+    "fr": "Capitaine Plate-défense"
+  },
+  "Prince Kellen": {
+    "en": "Prince Kellen",
+    "fr": "Prince Kellen"
+  },
+  "Timber": {
+    "en": "Timber",
+    "fr": "Grumeux"
+  },
+  "Elder Mystic Razorsnout": {
+    "en": "Elder Mystic Razorsnout",
+    "fr": "Ancienne mystique Tranchegroin"
+  },
+  "Hagg Taurenbane": {
+    "en": "Hagg Taurenbane",
+    "fr": "Hagg Taurenbane"
+  },
+  "Razortalon": {
+    "en": "Razortalon",
+    "fr": "Trancheserre"
+  },
+  "Grimungous": {
+    "en": "Grimungous",
+    "fr": "Grimungous"
+  },
+  "Thuros Lightfingers": {
+    "en": "Thuros Lightfingers",
+    "fr": "Thuros Doigts-agiles"
+  },
+  "Uhk'loc": {
+    "en": "Uhk'loc",
+    "fr": "Uhk'loc"
+  },
+  "Antilos": {
+    "en": "Antilos",
+    "fr": "Antilos"
+  },
+  "The Evalcharr": {
+    "en": "The Evalcharr",
+    "fr": "L'Evalcharr"
+  },
+  "Lady Sesspira": {
+    "en": "Lady Sesspira",
+    "fr": "Dame Sesspira"
+  },
+  "Boss Galgosh": {
+    "en": "Boss Galgosh",
+    "fr": "Boss Galgosh"
+  },
+  "The Rake": {
+    "en": "The Rake",
+    "fr": "Le Rake"
+  },
+  "Rohh the Silent": {
+    "en": "Rohh the Silent",
+    "fr": "Rohh le silencieux"
+  },
+  "Terrorspark": {
+    "en": "Terrorspark",
+    "fr": "Lueur terrifiante"
+  },
+  "Huricanian": {
+    "en": "Huricanian",
+    "fr": "Ouraganien"
+  },
+  "Hannah Bladeleaf": {
+    "en": "Hannah Bladeleaf",
+    "fr": "Hannah Bladeleaf"
+  },
+  "Malgin Barleybrew": {
+    "en": "Malgin Barleybrew",
+    "fr": "Malgin Barleybrew"
+  },
+  "Kovork": {
+    "en": "Kovork",
+    "fr": "Kovork"
+  },
+  "Molok the Crusher": {
+    "en": "Molok the Crusher",
+    "fr": "Molok l’Anéantisseur"
+  },
+  "Lost One Chieftain": {
+    "en": "Lost One Chieftain",
+    "fr": "Chef Perdu"
+  },
+  "Omgorn the Lost": {
+    "en": "Omgorn the Lost",
+    "fr": "Omgorn l'Egaré"
+  },
+  "Soriid the Devourer": {
+    "en": "Soriid the Devourer",
+    "fr": "Soriid le Dévoreur"
+  },
+  "Firecaller Radison": {
+    "en": "Firecaller Radison",
+    "fr": "Flamboyeur Radison"
+  },
+  "Lord Maldazzar": {
+    "en": "Lord Maldazzar",
+    "fr": "Seigneur Maldazzar"
+  },
+  "Darkslayer Mordenthal": {
+    "en": "Darkslayer Mordenthal",
+    "fr": "Assassin Mordenthal"
+  },
+  "Master Feardred": {
+    "en": "Master Feardred",
+    "fr": "Maître Trouilleffroi"
+  },
+  "Leprithus": {
+    "en": "Leprithus",
+    "fr": "Leprithus"
+  },
+  "Brainwashed Noble": {
+    "en": "Brainwashed Noble",
+    "fr": "Noble manipulé"
+  },
+  "Master Digger": {
+    "en": "Master Digger",
+    "fr": "Maître Terrassier"
+  },
+  "Ma'ruk Wyrmscale": {
+    "en": "Ma'ruk Wyrmscale",
+    "fr": "Ma'ruk Wyrmscale"
+  },
+  "Lady Hederine": {
+    "en": "Lady Hederine",
+    "fr": "Dame Hederine"
+  },
+  "Grizzle Snowpaw": {
+    "en": "Grizzle Snowpaw",
+    "fr": "Grison Neigepatte"
+  },
+  "Rak'shiri": {
+    "en": "Rak'shiri",
+    "fr": "Rak'shiri"
+  },
+  "Razormaw Matriarch": {
+    "en": "Razormaw Matriarch",
+    "fr": "Matriarche tranchegueules"
   }
 }
