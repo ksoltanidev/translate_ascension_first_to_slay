@@ -14268,5 +14268,1415 @@
     "id": 2766462,
     "enUS": "First to slay Mythic Ragglesnout",
     "frFR": "Premier à tuer Mythique Groinfendu"
+  },
+  {
+    "id": 2721230,
+    "enUS": "Slay Heroic Panzor the Invincible",
+    "frFR": "Vaincre Panzor l'Invincible en mode Héroïque"
+  },
+  {
+    "id": 2721230,
+    "enUS": "Slay Heroic Panzor the Invincible",
+    "frFR": "Vaincre Panzor l'Invincible en mode Héroïque"
+  },
+  {
+    "id": 2721231,
+    "enUS": "Slay Heroic Mor Grayhoof",
+    "frFR": "Vaincre Mor Grayhoof en mode Héroïque"
+  },
+  {
+    "id": 2721231,
+    "enUS": "Slay Heroic Mor Grayhoof",
+    "frFR": "Vaincre Mor Grayhoof en mode Héroïque"
+  },
+  {
+    "id": 2721233,
+    "enUS": "Slay Heroic Skul",
+    "frFR": "Vaincre Krân en mode Héroïque"
+  },
+  {
+    "id": 2721233,
+    "enUS": "Slay Heroic Skul",
+    "frFR": "Vaincre Krân en mode Héroïque"
+  },
+  {
+    "id": 2721234,
+    "enUS": "Slay Heroic Isalien",
+    "frFR": "Vaincre Isalien en mode Héroïque"
+  },
+  {
+    "id": 2721234,
+    "enUS": "Slay Heroic Isalien",
+    "frFR": "Vaincre Isalien en mode Héroïque"
+  },
+  {
+    "id": 2721239,
+    "enUS": "Slay Heroic Cookie",
+    "frFR": "Vaincre Macaron en mode Héroïque"
+  },
+  {
+    "id": 2721239,
+    "enUS": "Slay Heroic Cookie",
+    "frFR": "Vaincre Macaron en mode Héroïque"
+  },
+  {
+    "id": 2721240,
+    "enUS": "Slay Heroic Captain Greenskin",
+    "frFR": "Vaincre Capitaine Vertepeau en mode Héroïque"
+  },
+  {
+    "id": 2721240,
+    "enUS": "Slay Heroic Captain Greenskin",
+    "frFR": "Vaincre Capitaine Vertepeau en mode Héroïque"
+  },
+  {
+    "id": 2721242,
+    "enUS": "Slay Heroic Ghamoo-ra",
+    "frFR": "Vaincre Ghamoo-ra en mode Héroïque"
+  },
+  {
+    "id": 2721242,
+    "enUS": "Slay Heroic Ghamoo-ra",
+    "frFR": "Vaincre Ghamoo-ra en mode Héroïque"
+  },
+  {
+    "id": 2721244,
+    "enUS": "Slay Heroic Gelihast",
+    "frFR": "Vaincre Gelihast en mode Héroïque"
+  },
+  {
+    "id": 2721244,
+    "enUS": "Slay Heroic Gelihast",
+    "frFR": "Vaincre Gelihast en mode Héroïque"
+  },
+  {
+    "id": 2721245,
+    "enUS": "Slay Heroic Lorgus Jett",
+    "frFR": "Vaincre Lorgus Jett en mode Héroïque"
+  },
+  {
+    "id": 2721245,
+    "enUS": "Slay Heroic Lorgus Jett",
+    "frFR": "Vaincre Lorgus Jett en mode Héroïque"
+  },
+  {
+    "id": 2721247,
+    "enUS": "Slay Heroic Twilight Lord Kelris",
+    "frFR": "Vaincre Seigneur du crépuscule Kelris en mode Héroïque"
+  },
+  {
+    "id": 2721248,
+    "enUS": "Slay Heroic Aku'mai",
+    "frFR": "Vaincre Aku'mai en mode Héroïque"
+  },
+  {
+    "id": 2721248,
+    "enUS": "Slay Heroic Aku'mai",
+    "frFR": "Vaincre Aku'mai en mode Héroïque"
+  },
+  {
+    "id": 2721251,
+    "enUS": "Slay Heroic Hurley Blackbreath",
+    "frFR": "Vaincre Hurley Blackbreath en mode Héroïque"
+  },
+  {
+    "id": 2721251,
+    "enUS": "Slay Heroic Hurley Blackbreath",
+    "frFR": "Vaincre Hurley Blackbreath en mode Héroïque"
+  },
+  {
+    "id": 2721253,
+    "enUS": "Slay Heroic Ribbly Screwspigot",
+    "frFR": "Vaincre Ribbly Screwspigot en mode Héroïque"
+  },
+  {
+    "id": 2721253,
+    "enUS": "Slay Heroic Ribbly Screwspigot",
+    "frFR": "Vaincre Ribbly Screwspigot en mode Héroïque"
+  },
+  {
+    "id": 2721275,
+    "enUS": "Slay Heroic Plugger Spazzring",
+    "frFR": "Vaincre Plugger Spazzring en mode Héroïque"
+  },
+  {
+    "id": 2721275,
+    "enUS": "Slay Heroic Plugger Spazzring",
+    "frFR": "Vaincre Plugger Spazzring en mode Héroïque"
+  },
+  {
+    "id": 2721278,
+    "enUS": "Slay Heroic Magmus",
+    "frFR": "Vaincre Magmus en mode Héroïque"
+  },
+  {
+    "id": 2721278,
+    "enUS": "Slay Heroic Magmus",
+    "frFR": "Vaincre Magmus en mode Héroïque"
+  },
+  {
+    "id": 2721279,
+    "enUS": "Slay Heroic Emperor Dagran Thaurissan",
+    "frFR": "Vaincre Empereur Dagran Thaurissan en mode Héroïque"
+  },
+  {
+    "id": 2721279,
+    "enUS": "Slay Heroic Emperor Dagran Thaurissan",
+    "frFR": "Vaincre Empereur Dagran Thaurissan en mode Héroïque"
+  },
+  {
+    "id": 2721285,
+    "enUS": "Slay Heroic Viscous Fallout",
+    "frFR": "Vaincre Retombée visqueuse en mode Héroïque"
+  },
+  {
+    "id": 2721285,
+    "enUS": "Slay Heroic Viscous Fallout",
+    "frFR": "Vaincre Retombée visqueuse en mode Héroïque"
+  },
+  {
+    "id": 2721286,
+    "enUS": "Slay Heroic Grubbis",
+    "frFR": "Vaincre Grubbis en mode Héroïque"
+  },
+  {
+    "id": 2721286,
+    "enUS": "Slay Heroic Grubbis",
+    "frFR": "Vaincre Grubbis en mode Héroïque"
+  },
+  {
+    "id": 2721287,
+    "enUS": "Slay Heroic Electrocutioner 6000",
+    "frFR": "Vaincre Electrocuteur 6000 en mode Héroïque"
+  },
+  {
+    "id": 2721287,
+    "enUS": "Slay Heroic Electrocutioner 6000",
+    "frFR": "Vaincre Electrocuteur 6000 en mode Héroïque"
+  },
+  {
+    "id": 2721289,
+    "enUS": "Slay Heroic Mekgineer Thermaplugg",
+    "frFR": "Vaincre Mekgénieur Thermaplugg en mode Héroïque"
+  },
+  {
+    "id": 2721289,
+    "enUS": "Slay Heroic Mekgineer Thermaplugg",
+    "frFR": "Vaincre Mekgénieur Thermaplugg en mode Héroïque"
+  },
+  {
+    "id": 2721291,
+    "enUS": "Slay Heroic Tinkerer Gizlock",
+    "frFR": "Vaincre Artisan Gizlock en mode Héroïque"
+  },
+  {
+    "id": 2721291,
+    "enUS": "Slay Heroic Tinkerer Gizlock",
+    "frFR": "Vaincre Artisan Gizlock en mode Héroïque"
+  },
+  {
+    "id": 2721292,
+    "enUS": "Slay Heroic Rotgrip",
+    "frFR": "Vaincre Grippe-charogne en mode Héroïque"
+  },
+  {
+    "id": 2721292,
+    "enUS": "Slay Heroic Rotgrip",
+    "frFR": "Vaincre Grippe-charogne en mode Héroïque"
+  },
+  {
+    "id": 2721294,
+    "enUS": "Slay Heroic Oggleflint",
+    "frFR": "Vaincre Lorgnesilex en mode Héroïque"
+  },
+  {
+    "id": 2721294,
+    "enUS": "Slay Heroic Oggleflint",
+    "frFR": "Vaincre Lorgnesilex en mode Héroïque"
+  },
+  {
+    "id": 2721328,
+    "enUS": "Slay Heroic Jergosh the Invoker",
+    "frFR": "Vaincre Jergosh l'Invocateur en mode Héroïque"
+  },
+  {
+    "id": 2721328,
+    "enUS": "Slay Heroic Jergosh the Invoker",
+    "frFR": "Vaincre Jergosh l'Invocateur en mode Héroïque"
+  },
+  {
+    "id": 2721329,
+    "enUS": "Slay Heroic Bazzalan",
+    "frFR": "Vaincre Bazzalan en mode Héroïque"
+  },
+  {
+    "id": 2721329,
+    "enUS": "Slay Heroic Bazzalan",
+    "frFR": "Vaincre Bazzalan en mode Héroïque"
+  },
+  {
+    "id": 2721330,
+    "enUS": "Slay Heroic Tuten'kash",
+    "frFR": "Vaincre Tuten'kash en mode Héroïque"
+  },
+  {
+    "id": 2721330,
+    "enUS": "Slay Heroic Tuten'kash",
+    "frFR": "Vaincre Tuten'kash en mode Héroïque"
+  },
+  {
+    "id": 2721332,
+    "enUS": "Slay Heroic Glutton",
+    "frFR": "Vaincre Glouton en mode Héroïque"
+  },
+  {
+    "id": 2721332,
+    "enUS": "Slay Heroic Glutton",
+    "frFR": "Vaincre Glouton en mode Héroïque"
+  },
+  {
+    "id": 2721334,
+    "enUS": "Slay Heroic Roogug",
+    "frFR": "Vaincre Roogug en mode Héroïque"
+  },
+  {
+    "id": 2721334,
+    "enUS": "Slay Heroic Roogug",
+    "frFR": "Vaincre Roogug en mode Héroïque"
+  },
+  {
+    "id": 2721335,
+    "enUS": "Slay Heroic Aggem Thorncurse",
+    "frFR": "Vaincre Aggem Mantépine en mode Héroïque"
+  },
+  {
+    "id": 2721335,
+    "enUS": "Slay Heroic Aggem Thorncurse",
+    "frFR": "Vaincre Aggem Mantépine en mode Héroïque"
+  },
+  {
+    "id": 2721344,
+    "enUS": "Slay Heroic High Inquisitor Fairbanks",
+    "frFR": "Vaincre Grand Inquisiteur Fairbanks en mode Héroïque"
+  },
+  {
+    "id": 2721344,
+    "enUS": "Slay Heroic High Inquisitor Fairbanks",
+    "frFR": "Vaincre Grand Inquisiteur Fairbanks en mode Héroïque"
+  },
+  {
+    "id": 2721346,
+    "enUS": "Slay Heroic Rethilgore",
+    "frFR": "Vaincre Rethilgore en mode Héroïque"
+  },
+  {
+    "id": 2721346,
+    "enUS": "Slay Heroic Rethilgore",
+    "frFR": "Vaincre Rethilgore en mode Héroïque"
+  },
+  {
+    "id": 2721347,
+    "enUS": "Slay Heroic Razorclaw the Butcher",
+    "frFR": "Vaincre Tranchegriffe le Boucher en mode Héroïque"
+  },
+  {
+    "id": 2721347,
+    "enUS": "Slay Heroic Razorclaw the Butcher",
+    "frFR": "Vaincre Tranchegriffe le Boucher en mode Héroïque"
+  },
+  {
+    "id": 2721348,
+    "enUS": "Slay Heroic Baron Silverlaine",
+    "frFR": "Vaincre Baron d'Argelaine en mode Héroïque"
+  },
+  {
+    "id": 2721348,
+    "enUS": "Slay Heroic Baron Silverlaine",
+    "frFR": "Vaincre Baron d'Argelaine en mode Héroïque"
+  },
+  {
+    "id": 2721354,
+    "enUS": "Slay Heroic The Unforgiven",
+    "frFR": "Vaincre Le Condamné en mode Héroïque"
+  },
+  {
+    "id": 2721354,
+    "enUS": "Slay Heroic The Unforgiven",
+    "frFR": "Vaincre Le Condamné en mode Héroïque"
+  },
+  {
+    "id": 2721355,
+    "enUS": "Slay Heroic Hearthsinger Forresten",
+    "frFR": "Vaincre Hearthsinger Forresten en mode Héroïque"
+  },
+  {
+    "id": 2721355,
+    "enUS": "Slay Heroic Hearthsinger Forresten",
+    "frFR": "Vaincre Hearthsinger Forresten en mode Héroïque"
+  },
+  {
+    "id": 2721356,
+    "enUS": "Slay Heroic Timmy the Cruel",
+    "frFR": "Vaincre Timmy le Cruel en mode Héroïque"
+  },
+  {
+    "id": 2721356,
+    "enUS": "Slay Heroic Timmy the Cruel",
+    "frFR": "Vaincre Timmy le Cruel en mode Héroïque"
+  },
+  {
+    "id": 2721360,
+    "enUS": "Slay Heroic Balnazzar",
+    "frFR": "Vaincre Balnazzar en mode Héroïque"
+  },
+  {
+    "id": 2721360,
+    "enUS": "Slay Heroic Balnazzar",
+    "frFR": "Vaincre Balnazzar en mode Héroïque"
+  },
+  {
+    "id": 2721361,
+    "enUS": "Slay Heroic Atal'alarion",
+    "frFR": "Vaincre Atal'alarion en mode Héroïque"
+  },
+  {
+    "id": 2721361,
+    "enUS": "Slay Heroic Atal'alarion",
+    "frFR": "Vaincre Atal'alarion en mode Héroïque"
+  },
+  {
+    "id": 2721363,
+    "enUS": "Slay Heroic Weaver",
+    "frFR": "Vaincre Tisserand en mode Héroïque"
+  },
+  {
+    "id": 2721363,
+    "enUS": "Slay Heroic Weaver",
+    "frFR": "Vaincre Tisserand en mode Héroïque"
+  },
+  {
+    "id": 2721364,
+    "enUS": "Slay Heroic Jammal'an the Prophet",
+    "frFR": "Vaincre Jammal'an le prophète en mode Héroïque"
+  },
+  {
+    "id": 2721364,
+    "enUS": "Slay Heroic Jammal'an the Prophet",
+    "frFR": "Vaincre Jammal'an le prophète en mode Héroïque"
+  },
+  {
+    "id": 2721405,
+    "enUS": "Slay Heroic Morphaz",
+    "frFR": "Vaincre Morphaz en mode Héroïque"
+  },
+  {
+    "id": 2721405,
+    "enUS": "Slay Heroic Morphaz",
+    "frFR": "Vaincre Morphaz en mode Héroïque"
+  },
+  {
+    "id": 2721406,
+    "enUS": "Slay Heroic Hazzas",
+    "frFR": "Vaincre Hazzas en mode Héroïque"
+  },
+  {
+    "id": 2721406,
+    "enUS": "Slay Heroic Hazzas",
+    "frFR": "Vaincre Hazzas en mode Héroïque"
+  },
+  {
+    "id": 2721410,
+    "enUS": "Slay Heroic Kam Deepfury",
+    "frFR": "Vaincre Kam Deepfury en mode Héroïque"
+  },
+  {
+    "id": 2721410,
+    "enUS": "Slay Heroic Kam Deepfury",
+    "frFR": "Vaincre Kam Deepfury en mode Héroïque"
+  },
+  {
+    "id": 2721411,
+    "enUS": "Slay Heroic Hamhock",
+    "frFR": "Vaincre Hamhock en mode Héroïque"
+  },
+  {
+    "id": 2721411,
+    "enUS": "Slay Heroic Hamhock",
+    "frFR": "Vaincre Hamhock en mode Héroïque"
+  },
+  {
+    "id": 2721412,
+    "enUS": "Slay Heroic Bazil Thredd",
+    "frFR": "Vaincre Bazil Thredd en mode Héroïque"
+  },
+  {
+    "id": 2721414,
+    "enUS": "Slay Heroic Revelosh",
+    "frFR": "Vaincre Revelosh en mode Héroïque"
+  },
+  {
+    "id": 2721414,
+    "enUS": "Slay Heroic Revelosh",
+    "frFR": "Vaincre Revelosh en mode Héroïque"
+  },
+  {
+    "id": 2721415,
+    "enUS": "Slay Heroic Baelog",
+    "frFR": "Vaincre Baelog en mode Héroïque"
+  },
+  {
+    "id": 2721415,
+    "enUS": "Slay Heroic Baelog",
+    "frFR": "Vaincre Baelog en mode Héroïque"
+  },
+  {
+    "id": 2721417,
+    "enUS": "Slay Heroic Ancient Stone Keeper",
+    "frFR": "Vaincre Ancien Gardien des pierres en mode Héroïque"
+  },
+  {
+    "id": 2721417,
+    "enUS": "Slay Heroic Ancient Stone Keeper",
+    "frFR": "Vaincre Ancien Gardien des pierres en mode Héroïque"
+  },
+  {
+    "id": 2721419,
+    "enUS": "Slay Heroic Grimlok",
+    "frFR": "Vaincre Grimlok en mode Héroïque"
+  },
+  {
+    "id": 2721419,
+    "enUS": "Slay Heroic Grimlok",
+    "frFR": "Vaincre Grimlok en mode Héroïque"
+  },
+  {
+    "id": 2721420,
+    "enUS": "Slay Heroic Ironaya",
+    "frFR": "Vaincre Ironaya en mode Héroïque"
+  },
+  {
+    "id": 2721420,
+    "enUS": "Slay Heroic Ironaya",
+    "frFR": "Vaincre Ironaya en mode Héroïque"
+  },
+  {
+    "id": 2721423,
+    "enUS": "Slay Heroic Kresh",
+    "frFR": "Vaincre Kresh en mode Héroïque"
+  },
+  {
+    "id": 2721423,
+    "enUS": "Slay Heroic Kresh",
+    "frFR": "Vaincre Kresh en mode Héroïque"
+  },
+  {
+    "id": 2721425,
+    "enUS": "Slay Heroic Skum",
+    "frFR": "Vaincre Skum en mode Héroïque"
+  },
+  {
+    "id": 2721425,
+    "enUS": "Slay Heroic Skum",
+    "frFR": "Vaincre Skum en mode Héroïque"
+  },
+  {
+    "id": 2721428,
+    "enUS": "Slay Heroic Mutanus the Devourer",
+    "frFR": "Vaincre Mutanus le Dévoreur en mode Héroïque"
+  },
+  {
+    "id": 2721430,
+    "enUS": "Slay Heroic Gahz'rilla",
+    "frFR": "Vaincre Gahz'rilla en mode Héroïque"
+  },
+  {
+    "id": 2721430,
+    "enUS": "Slay Heroic Gahz'rilla",
+    "frFR": "Vaincre Gahz'rilla en mode Héroïque"
+  },
+  {
+    "id": 2721431,
+    "enUS": "Slay Heroic Antu'sul",
+    "frFR": "Vaincre Antu'sul en mode Héroïque"
+  },
+  {
+    "id": 2721431,
+    "enUS": "Slay Heroic Antu'sul",
+    "frFR": "Vaincre Antu'sul en mode Héroïque"
+  },
+  {
+    "id": 2721469,
+    "enUS": "Slay Heroic Nekrum Gutchewer",
+    "frFR": "Vaincre Nekrum Mâchetripes en mode Héroïque"
+  },
+  {
+    "id": 2721469,
+    "enUS": "Slay Heroic Nekrum Gutchewer",
+    "frFR": "Vaincre Nekrum Mâchetripes en mode Héroïque"
+  },
+  {
+    "id": 2721471,
+    "enUS": "Slay Heroic Chief Ukorz Sandscalp",
+    "frFR": "Vaincre Chef Ukorz Scalpessable en mode Héroïque"
+  },
+  {
+    "id": 2721474,
+    "enUS": "Slay Heroic Techbot",
+    "frFR": "Vaincre Techbot en mode Héroïque"
+  },
+  {
+    "id": 2721474,
+    "enUS": "Slay Heroic Techbot",
+    "frFR": "Vaincre Techbot en mode Héroïque"
+  },
+  {
+    "id": 2721478,
+    "enUS": "Slay Heroic Scorn",
+    "frFR": "Vaincre Dédain en mode Héroïque"
+  },
+  {
+    "id": 2721478,
+    "enUS": "Slay Heroic Scorn",
+    "frFR": "Vaincre Dédain en mode Héroïque"
+  },
+  {
+    "id": 2721501,
+    "enUS": "Slay Heroic Earthcaller Halmgar",
+    "frFR": "Vaincre Implorateur de la terre Halmgar en mode Héroïque"
+  },
+  {
+    "id": 2721501,
+    "enUS": "Slay Heroic Earthcaller Halmgar",
+    "frFR": "Vaincre Implorateur de la terre Halmgar en mode Héroïque"
+  },
+  {
+    "id": 2721505,
+    "enUS": "Slay Heroic Ragglesnout",
+    "frFR": "Vaincre Groinfendu en mode Héroïque"
+  },
+  {
+    "id": 2721505,
+    "enUS": "Slay Heroic Ragglesnout",
+    "frFR": "Vaincre Groinfendu en mode Héroïque"
+  },
+  {
+    "id": 2721507,
+    "enUS": "Slay Mythic Panzor the Invincible",
+    "frFR": "Vaincre Panzor l'Invincible en mode Mythique"
+  },
+  {
+    "id": 2721507,
+    "enUS": "Slay Mythic Panzor the Invincible",
+    "frFR": "Vaincre Panzor l'Invincible en mode Mythique"
+  },
+  {
+    "id": 2721508,
+    "enUS": "Slay Mythic Mor Grayhoof",
+    "frFR": "Vaincre Mor Grayhoof en mode Mythique"
+  },
+  {
+    "id": 2721508,
+    "enUS": "Slay Mythic Mor Grayhoof",
+    "frFR": "Vaincre Mor Grayhoof en mode Mythique"
+  },
+  {
+    "id": 2721510,
+    "enUS": "Slay Mythic Skul",
+    "frFR": "Vaincre Krân en mode Mythique"
+  },
+  {
+    "id": 2721510,
+    "enUS": "Slay Mythic Skul",
+    "frFR": "Vaincre Krân en mode Mythique"
+  },
+  {
+    "id": 2721511,
+    "enUS": "Slay Mythic Isalien",
+    "frFR": "Vaincre Isalien en mode Mythique"
+  },
+  {
+    "id": 2721511,
+    "enUS": "Slay Mythic Isalien",
+    "frFR": "Vaincre Isalien en mode Mythique"
+  },
+  {
+    "id": 2721516,
+    "enUS": "Slay Mythic Cookie",
+    "frFR": "Vaincre Macaron en mode Mythique"
+  },
+  {
+    "id": 2721516,
+    "enUS": "Slay Mythic Cookie",
+    "frFR": "Vaincre Macaron en mode Mythique"
+  },
+  {
+    "id": 2721517,
+    "enUS": "Slay Mythic Captain Greenskin",
+    "frFR": "Vaincre Capitaine Vertepeau en mode Mythique"
+  },
+  {
+    "id": 2721517,
+    "enUS": "Slay Mythic Captain Greenskin",
+    "frFR": "Vaincre Capitaine Vertepeau en mode Mythique"
+  },
+  {
+    "id": 2721519,
+    "enUS": "Slay Mythic Ghamoo-ra",
+    "frFR": "Vaincre Ghamoo-ra en mode Mythique"
+  },
+  {
+    "id": 2721519,
+    "enUS": "Slay Mythic Ghamoo-ra",
+    "frFR": "Vaincre Ghamoo-ra en mode Mythique"
+  },
+  {
+    "id": 2721541,
+    "enUS": "Slay Mythic Gelihast",
+    "frFR": "Vaincre Gelihast en mode Mythique"
+  },
+  {
+    "id": 2721541,
+    "enUS": "Slay Mythic Gelihast",
+    "frFR": "Vaincre Gelihast en mode Mythique"
+  },
+  {
+    "id": 2721542,
+    "enUS": "Slay Mythic Lorgus Jett",
+    "frFR": "Vaincre Lorgus Jett en mode Mythique"
+  },
+  {
+    "id": 2721542,
+    "enUS": "Slay Mythic Lorgus Jett",
+    "frFR": "Vaincre Lorgus Jett en mode Mythique"
+  },
+  {
+    "id": 2721545,
+    "enUS": "Slay Mythic Aku'mai",
+    "frFR": "Vaincre Aku'mai en mode Mythique"
+  },
+  {
+    "id": 2721545,
+    "enUS": "Slay Mythic Aku'mai",
+    "frFR": "Vaincre Aku'mai en mode Mythique"
+  },
+  {
+    "id": 2721548,
+    "enUS": "Slay Mythic Hurley Blackbreath",
+    "frFR": "Vaincre Hurley Blackbreath en mode Mythique"
+  },
+  {
+    "id": 2721548,
+    "enUS": "Slay Mythic Hurley Blackbreath",
+    "frFR": "Vaincre Hurley Blackbreath en mode Mythique"
+  },
+  {
+    "id": 2721550,
+    "enUS": "Slay Mythic Ribbly Screwspigot",
+    "frFR": "Vaincre Ribbly Screwspigot en mode Mythique"
+  },
+  {
+    "id": 2721550,
+    "enUS": "Slay Mythic Ribbly Screwspigot",
+    "frFR": "Vaincre Ribbly Screwspigot en mode Mythique"
+  },
+  {
+    "id": 2721551,
+    "enUS": "Slay Mythic Plugger Spazzring",
+    "frFR": "Vaincre Plugger Spazzring en mode Mythique"
+  },
+  {
+    "id": 2721551,
+    "enUS": "Slay Mythic Plugger Spazzring",
+    "frFR": "Vaincre Plugger Spazzring en mode Mythique"
+  },
+  {
+    "id": 2721554,
+    "enUS": "Slay Mythic Magmus",
+    "frFR": "Vaincre Magmus en mode Mythique"
+  },
+  {
+    "id": 2721554,
+    "enUS": "Slay Mythic Magmus",
+    "frFR": "Vaincre Magmus en mode Mythique"
+  },
+  {
+    "id": 2721555,
+    "enUS": "Slay Mythic Emperor Dagran Thaurissan",
+    "frFR": "Vaincre Empereur Dagran Thaurissan en mode Mythique"
+  },
+  {
+    "id": 2721555,
+    "enUS": "Slay Mythic Emperor Dagran Thaurissan",
+    "frFR": "Vaincre Empereur Dagran Thaurissan en mode Mythique"
+  },
+  {
+    "id": 2721561,
+    "enUS": "Slay Mythic Viscous Fallout",
+    "frFR": "Vaincre Retombée visqueuse en mode Mythique"
+  },
+  {
+    "id": 2721561,
+    "enUS": "Slay Mythic Viscous Fallout",
+    "frFR": "Vaincre Retombée visqueuse en mode Mythique"
+  },
+  {
+    "id": 2721562,
+    "enUS": "Slay Mythic Grubbis",
+    "frFR": "Vaincre Grubbis en mode Mythique"
+  },
+  {
+    "id": 2721562,
+    "enUS": "Slay Mythic Grubbis",
+    "frFR": "Vaincre Grubbis en mode Mythique"
+  },
+  {
+    "id": 2721563,
+    "enUS": "Slay Mythic Electrocutioner 6000",
+    "frFR": "Vaincre Electrocuteur 6000 en mode Mythique"
+  },
+  {
+    "id": 2721563,
+    "enUS": "Slay Mythic Electrocutioner 6000",
+    "frFR": "Vaincre Electrocuteur 6000 en mode Mythique"
+  },
+  {
+    "id": 2721565,
+    "enUS": "Slay Mythic Mekgineer Thermaplugg",
+    "frFR": "Vaincre Mekgénieur Thermaplugg en mode Mythique"
+  },
+  {
+    "id": 2721565,
+    "enUS": "Slay Mythic Mekgineer Thermaplugg",
+    "frFR": "Vaincre Mekgénieur Thermaplugg en mode Mythique"
+  },
+  {
+    "id": 2721567,
+    "enUS": "Slay Mythic Tinkerer Gizlock",
+    "frFR": "Vaincre Artisan Gizlock en mode Mythique"
+  },
+  {
+    "id": 2721567,
+    "enUS": "Slay Mythic Tinkerer Gizlock",
+    "frFR": "Vaincre Artisan Gizlock en mode Mythique"
+  },
+  {
+    "id": 2721568,
+    "enUS": "Slay Mythic Rotgrip",
+    "frFR": "Vaincre Grippe-charogne en mode Mythique"
+  },
+  {
+    "id": 2721568,
+    "enUS": "Slay Mythic Rotgrip",
+    "frFR": "Vaincre Grippe-charogne en mode Mythique"
+  },
+  {
+    "id": 2721585,
+    "enUS": "Slay Mythic Oggleflint",
+    "frFR": "Vaincre Lorgnesilex en mode Mythique"
+  },
+  {
+    "id": 2721585,
+    "enUS": "Slay Mythic Oggleflint",
+    "frFR": "Vaincre Lorgnesilex en mode Mythique"
+  },
+  {
+    "id": 2721587,
+    "enUS": "Slay Mythic Jergosh the Invoker",
+    "frFR": "Vaincre Jergosh l'Invocateur en mode Mythique"
+  },
+  {
+    "id": 2721587,
+    "enUS": "Slay Mythic Jergosh the Invoker",
+    "frFR": "Vaincre Jergosh l'Invocateur en mode Mythique"
+  },
+  {
+    "id": 2721588,
+    "enUS": "Slay Mythic Bazzalan",
+    "frFR": "Vaincre Bazzalan en mode Mythique"
+  },
+  {
+    "id": 2721588,
+    "enUS": "Slay Mythic Bazzalan",
+    "frFR": "Vaincre Bazzalan en mode Mythique"
+  },
+  {
+    "id": 2721589,
+    "enUS": "Slay Mythic Tuten'kash",
+    "frFR": "Vaincre Tuten'kash en mode Mythique"
+  },
+  {
+    "id": 2721589,
+    "enUS": "Slay Mythic Tuten'kash",
+    "frFR": "Vaincre Tuten'kash en mode Mythique"
+  },
+  {
+    "id": 2721591,
+    "enUS": "Slay Mythic Glutton",
+    "frFR": "Vaincre Glouton en mode Mythique"
+  },
+  {
+    "id": 2721591,
+    "enUS": "Slay Mythic Glutton",
+    "frFR": "Vaincre Glouton en mode Mythique"
+  },
+  {
+    "id": 2721593,
+    "enUS": "Slay Mythic Roogug",
+    "frFR": "Vaincre Roogug en mode Mythique"
+  },
+  {
+    "id": 2721593,
+    "enUS": "Slay Mythic Roogug",
+    "frFR": "Vaincre Roogug en mode Mythique"
+  },
+  {
+    "id": 2721594,
+    "enUS": "Slay Mythic Aggem Thorncurse",
+    "frFR": "Vaincre Aggem Mantépine en mode Mythique"
+  },
+  {
+    "id": 2721594,
+    "enUS": "Slay Mythic Aggem Thorncurse",
+    "frFR": "Vaincre Aggem Mantépine en mode Mythique"
+  },
+  {
+    "id": 2721603,
+    "enUS": "Slay Mythic High Inquisitor Fairbanks",
+    "frFR": "Vaincre Grand Inquisiteur Fairbanks en mode Mythique"
+  },
+  {
+    "id": 2721603,
+    "enUS": "Slay Mythic High Inquisitor Fairbanks",
+    "frFR": "Vaincre Grand Inquisiteur Fairbanks en mode Mythique"
+  },
+  {
+    "id": 2721605,
+    "enUS": "Slay Mythic Rethilgore",
+    "frFR": "Vaincre Rethilgore en mode Mythique"
+  },
+  {
+    "id": 2721605,
+    "enUS": "Slay Mythic Rethilgore",
+    "frFR": "Vaincre Rethilgore en mode Mythique"
+  },
+  {
+    "id": 2721606,
+    "enUS": "Slay Mythic Razorclaw the Butcher",
+    "frFR": "Vaincre Tranchegriffe le Boucher en mode Mythique"
+  },
+  {
+    "id": 2721606,
+    "enUS": "Slay Mythic Razorclaw the Butcher",
+    "frFR": "Vaincre Tranchegriffe le Boucher en mode Mythique"
+  },
+  {
+    "id": 2721607,
+    "enUS": "Slay Mythic Baron Silverlaine",
+    "frFR": "Vaincre Baron d'Argelaine en mode Mythique"
+  },
+  {
+    "id": 2721607,
+    "enUS": "Slay Mythic Baron Silverlaine",
+    "frFR": "Vaincre Baron d'Argelaine en mode Mythique"
+  },
+  {
+    "id": 2721608,
+    "enUS": "Slay Mythic Commander Springvale",
+    "frFR": "Vaincre Commandant Springvale en mode Mythique"
+  },
+  {
+    "id": 2721613,
+    "enUS": "Slay Mythic The Unforgiven",
+    "frFR": "Vaincre Le Condamné en mode Mythique"
+  },
+  {
+    "id": 2721613,
+    "enUS": "Slay Mythic The Unforgiven",
+    "frFR": "Vaincre Le Condamné en mode Mythique"
+  },
+  {
+    "id": 2721614,
+    "enUS": "Slay Mythic Hearthsinger Forresten",
+    "frFR": "Vaincre Hearthsinger Forresten en mode Mythique"
+  },
+  {
+    "id": 2721614,
+    "enUS": "Slay Mythic Hearthsinger Forresten",
+    "frFR": "Vaincre Hearthsinger Forresten en mode Mythique"
+  },
+  {
+    "id": 2721615,
+    "enUS": "Slay Mythic Timmy the Cruel",
+    "frFR": "Vaincre Timmy le Cruel en mode Mythique"
+  },
+  {
+    "id": 2721615,
+    "enUS": "Slay Mythic Timmy the Cruel",
+    "frFR": "Vaincre Timmy le Cruel en mode Mythique"
+  },
+  {
+    "id": 2721619,
+    "enUS": "Slay Mythic Balnazzar",
+    "frFR": "Vaincre Balnazzar en mode Mythique"
+  },
+  {
+    "id": 2721619,
+    "enUS": "Slay Mythic Balnazzar",
+    "frFR": "Vaincre Balnazzar en mode Mythique"
+  },
+  {
+    "id": 2721620,
+    "enUS": "Slay Mythic Atal'alarion",
+    "frFR": "Vaincre Atal'alarion en mode Mythique"
+  },
+  {
+    "id": 2721620,
+    "enUS": "Slay Mythic Atal'alarion",
+    "frFR": "Vaincre Atal'alarion en mode Mythique"
+  },
+  {
+    "id": 2721649,
+    "enUS": "Slay Mythic Weaver",
+    "frFR": "Vaincre Tisserand en mode Mythique"
+  },
+  {
+    "id": 2721649,
+    "enUS": "Slay Mythic Weaver",
+    "frFR": "Vaincre Tisserand en mode Mythique"
+  },
+  {
+    "id": 2721650,
+    "enUS": "Slay Mythic Jammal'an the Prophet",
+    "frFR": "Vaincre Jammal'an le prophète en mode Mythique"
+  },
+  {
+    "id": 2721650,
+    "enUS": "Slay Mythic Jammal'an the Prophet",
+    "frFR": "Vaincre Jammal'an le prophète en mode Mythique"
+  },
+  {
+    "id": 2721651,
+    "enUS": "Slay Mythic Morphaz",
+    "frFR": "Vaincre Morphaz en mode Mythique"
+  },
+  {
+    "id": 2721651,
+    "enUS": "Slay Mythic Morphaz",
+    "frFR": "Vaincre Morphaz en mode Mythique"
+  },
+  {
+    "id": 2721652,
+    "enUS": "Slay Mythic Hazzas",
+    "frFR": "Vaincre Hazzas en mode Mythique"
+  },
+  {
+    "id": 2721652,
+    "enUS": "Slay Mythic Hazzas",
+    "frFR": "Vaincre Hazzas en mode Mythique"
+  },
+  {
+    "id": 2721656,
+    "enUS": "Slay Mythic Kam Deepfury",
+    "frFR": "Vaincre Kam Deepfury en mode Mythique"
+  },
+  {
+    "id": 2721656,
+    "enUS": "Slay Mythic Kam Deepfury",
+    "frFR": "Vaincre Kam Deepfury en mode Mythique"
+  },
+  {
+    "id": 2721657,
+    "enUS": "Slay Mythic Hamhock",
+    "frFR": "Vaincre Hamhock en mode Mythique"
+  },
+  {
+    "id": 2721657,
+    "enUS": "Slay Mythic Hamhock",
+    "frFR": "Vaincre Hamhock en mode Mythique"
+  },
+  {
+    "id": 2721658,
+    "enUS": "Slay Mythic Bazil Thredd",
+    "frFR": "Vaincre Bazil Thredd en mode Mythique"
+  },
+  {
+    "id": 2721660,
+    "enUS": "Slay Mythic Revelosh",
+    "frFR": "Vaincre Revelosh en mode Mythique"
+  },
+  {
+    "id": 2721660,
+    "enUS": "Slay Mythic Revelosh",
+    "frFR": "Vaincre Revelosh en mode Mythique"
+  },
+  {
+    "id": 2721661,
+    "enUS": "Slay Mythic Baelog",
+    "frFR": "Vaincre Baelog en mode Mythique"
+  },
+  {
+    "id": 2721661,
+    "enUS": "Slay Mythic Baelog",
+    "frFR": "Vaincre Baelog en mode Mythique"
+  },
+  {
+    "id": 2721663,
+    "enUS": "Slay Mythic Ancient Stone Keeper",
+    "frFR": "Vaincre Ancien Gardien des pierres en mode Mythique"
+  },
+  {
+    "id": 2721663,
+    "enUS": "Slay Mythic Ancient Stone Keeper",
+    "frFR": "Vaincre Ancien Gardien des pierres en mode Mythique"
+  },
+  {
+    "id": 2721665,
+    "enUS": "Slay Mythic Grimlok",
+    "frFR": "Vaincre Grimlok en mode Mythique"
+  },
+  {
+    "id": 2721665,
+    "enUS": "Slay Mythic Grimlok",
+    "frFR": "Vaincre Grimlok en mode Mythique"
+  },
+  {
+    "id": 2721666,
+    "enUS": "Slay Mythic Ironaya",
+    "frFR": "Vaincre Ironaya en mode Mythique"
+  },
+  {
+    "id": 2721666,
+    "enUS": "Slay Mythic Ironaya",
+    "frFR": "Vaincre Ironaya en mode Mythique"
+  },
+  {
+    "id": 2721669,
+    "enUS": "Slay Mythic Kresh",
+    "frFR": "Vaincre Kresh en mode Mythique"
+  },
+  {
+    "id": 2721669,
+    "enUS": "Slay Mythic Kresh",
+    "frFR": "Vaincre Kresh en mode Mythique"
+  },
+  {
+    "id": 2721671,
+    "enUS": "Slay Mythic Skum",
+    "frFR": "Vaincre Skum en mode Mythique"
+  },
+  {
+    "id": 2721671,
+    "enUS": "Slay Mythic Skum",
+    "frFR": "Vaincre Skum en mode Mythique"
+  },
+  {
+    "id": 2721696,
+    "enUS": "Slay Mythic Gahz'rilla",
+    "frFR": "Vaincre Gahz'rilla en mode Mythique"
+  },
+  {
+    "id": 2721696,
+    "enUS": "Slay Mythic Gahz'rilla",
+    "frFR": "Vaincre Gahz'rilla en mode Mythique"
+  },
+  {
+    "id": 2721697,
+    "enUS": "Slay Mythic Antu'sul",
+    "frFR": "Vaincre Antu'sul en mode Mythique"
+  },
+  {
+    "id": 2721697,
+    "enUS": "Slay Mythic Antu'sul",
+    "frFR": "Vaincre Antu'sul en mode Mythique"
+  },
+  {
+    "id": 2721700,
+    "enUS": "Slay Mythic Nekrum Gutchewer",
+    "frFR": "Vaincre Nekrum Mâchetripes en mode Mythique"
+  },
+  {
+    "id": 2721700,
+    "enUS": "Slay Mythic Nekrum Gutchewer",
+    "frFR": "Vaincre Nekrum Mâchetripes en mode Mythique"
+  },
+  {
+    "id": 2721705,
+    "enUS": "Slay Mythic Techbot",
+    "frFR": "Vaincre Techbot en mode Mythique"
+  },
+  {
+    "id": 2721705,
+    "enUS": "Slay Mythic Techbot",
+    "frFR": "Vaincre Techbot en mode Mythique"
+  },
+  {
+    "id": 2721709,
+    "enUS": "Slay Mythic Scorn",
+    "frFR": "Vaincre Dédain en mode Mythique"
+  },
+  {
+    "id": 2721709,
+    "enUS": "Slay Mythic Scorn",
+    "frFR": "Vaincre Dédain en mode Mythique"
+  },
+  {
+    "id": 2721714,
+    "enUS": "Slay Mythic Earthcaller Halmgar",
+    "frFR": "Vaincre Implorateur de la terre Halmgar en mode Mythique"
+  },
+  {
+    "id": 2721714,
+    "enUS": "Slay Mythic Earthcaller Halmgar",
+    "frFR": "Vaincre Implorateur de la terre Halmgar en mode Mythique"
+  },
+  {
+    "id": 2721755,
+    "enUS": "Slay Mythic Ragglesnout",
+    "frFR": "Vaincre Groinfendu en mode Mythique"
+  },
+  {
+    "id": 2721755,
+    "enUS": "Slay Mythic Ragglesnout",
+    "frFR": "Vaincre Groinfendu en mode Mythique"
+  },
+  {
+    "id": 2722329,
+    "enUS": "Slay Mythic Edwin VanCleef",
+    "frFR": "Vaincre Edwin VanCleef en mode Mythique"
+  },
+  {
+    "id": 2722329,
+    "enUS": "Slay Mythic Edwin VanCleef",
+    "frFR": "Vaincre Edwin VanCleef en mode Mythique"
+  },
+  {
+    "id": 2722330,
+    "enUS": "Slay Mythic Taragaman the Hungerer",
+    "frFR": "Vaincre Taragaman l'Affameur en mode Mythique"
+  },
+  {
+    "id": 2722330,
+    "enUS": "Slay Mythic Taragaman the Hungerer",
+    "frFR": "Vaincre Taragaman l'Affameur en mode Mythique"
+  },
+  {
+    "id": 2722331,
+    "enUS": "Slay Mythic Mutanus the Devourer",
+    "frFR": "Vaincre Mutanus le Dévoreur en mode Mythique"
+  },
+  {
+    "id": 2722331,
+    "enUS": "Slay Mythic Mutanus the Devourer",
+    "frFR": "Vaincre Mutanus le Dévoreur en mode Mythique"
+  },
+  {
+    "id": 2722332,
+    "enUS": "Slay Mythic Archmage Arugal",
+    "frFR": "Vaincre Archimage Arugal en mode Mythique"
+  },
+  {
+    "id": 2722332,
+    "enUS": "Slay Mythic Archmage Arugal",
+    "frFR": "Vaincre Archimage Arugal en mode Mythique"
+  },
+  {
+    "id": 2722333,
+    "enUS": "Slay Mythic Aku'mai",
+    "frFR": "Vaincre Aku'mai en mode Mythique"
+  },
+  {
+    "id": 2722333,
+    "enUS": "Slay Mythic Aku'mai",
+    "frFR": "Vaincre Aku'mai en mode Mythique"
+  },
+  {
+    "id": 2722356,
+    "enUS": "Slay Mythic Bazil Thredd",
+    "frFR": "Vaincre Bazil Thredd en mode Mythique"
+  },
+  {
+    "id": 2722356,
+    "enUS": "Slay Mythic Bazil Thredd",
+    "frFR": "Vaincre Bazil Thredd en mode Mythique"
+  },
+  {
+    "id": 2722357,
+    "enUS": "Slay Mythic Mekgineer Thermaplugg",
+    "frFR": "Vaincre Mekgénieur Thermaplugg en mode Mythique"
+  },
+  {
+    "id": 2722357,
+    "enUS": "Slay Mythic Mekgineer Thermaplugg",
+    "frFR": "Vaincre Mekgénieur Thermaplugg en mode Mythique"
+  },
+  {
+    "id": 2722358,
+    "enUS": "Slay Mythic Charlga Razorflank",
+    "frFR": "Vaincre Charlga Trancheflanc en mode Mythique"
+  },
+  {
+    "id": 2722358,
+    "enUS": "Slay Mythic Charlga Razorflank",
+    "frFR": "Vaincre Charlga Trancheflanc en mode Mythique"
+  },
+  {
+    "id": 2722359,
+    "enUS": "Slay Mythic Amnennar the Coldbringer",
+    "frFR": "Vaincre Amnennar le Porte-froid en mode Mythique"
+  },
+  {
+    "id": 2722359,
+    "enUS": "Slay Mythic Amnennar the Coldbringer",
+    "frFR": "Vaincre Amnennar le Porte-froid en mode Mythique"
+  },
+  {
+    "id": 2722360,
+    "enUS": "Slay Mythic High Inquisitor Whitemane",
+    "frFR": "Vaincre Grand Inquisiteur Whitemane en mode Mythique"
+  },
+  {
+    "id": 2722360,
+    "enUS": "Slay Mythic High Inquisitor Whitemane",
+    "frFR": "Vaincre Grand Inquisiteur Whitemane en mode Mythique"
+  },
+  {
+    "id": 2722361,
+    "enUS": "Slay Mythic Scarlet Commander Mograine",
+    "frFR": "Vaincre Commandant écarlate Mograine en mode Mythique"
+  },
+  {
+    "id": 2722361,
+    "enUS": "Slay Mythic Scarlet Commander Mograine",
+    "frFR": "Vaincre Commandant écarlate Mograine en mode Mythique"
+  },
+  {
+    "id": 2722362,
+    "enUS": "Slay Mythic Arcanist Doan",
+    "frFR": "Vaincre Arcaniste Doan en mode Mythique"
+  },
+  {
+    "id": 2722362,
+    "enUS": "Slay Mythic Arcanist Doan",
+    "frFR": "Vaincre Arcaniste Doan en mode Mythique"
+  },
+  {
+    "id": 2722363,
+    "enUS": "Slay Mythic Herod",
+    "frFR": "Vaincre Herod en mode Mythique"
+  },
+  {
+    "id": 2722363,
+    "enUS": "Slay Mythic Herod",
+    "frFR": "Vaincre Herod en mode Mythique"
+  },
+  {
+    "id": 2722364,
+    "enUS": "Slay Mythic Bloodmage Thalnos",
+    "frFR": "Vaincre Mage de sang Thalnos en mode Mythique"
+  },
+  {
+    "id": 2722364,
+    "enUS": "Slay Mythic Bloodmage Thalnos",
+    "frFR": "Vaincre Mage de sang Thalnos en mode Mythique"
+  },
+  {
+    "id": 2722365,
+    "enUS": "Slay Mythic Archaedas",
+    "frFR": "Vaincre Archaedas en mode Mythique"
+  },
+  {
+    "id": 2722365,
+    "enUS": "Slay Mythic Archaedas",
+    "frFR": "Vaincre Archaedas en mode Mythique"
+  },
+  {
+    "id": 2722366,
+    "enUS": "Slay Mythic Chief Ukorz Sandscalp",
+    "frFR": "Vaincre Chef Ukorz Scalpessable en mode Mythique"
+  },
+  {
+    "id": 2722366,
+    "enUS": "Slay Mythic Chief Ukorz Sandscalp",
+    "frFR": "Vaincre Chef Ukorz Scalpessable en mode Mythique"
+  },
+  {
+    "id": 2722367,
+    "enUS": "Slay Mythic Princess Theradras",
+    "frFR": "Vaincre Princesse Theradras en mode Mythique"
+  },
+  {
+    "id": 2722367,
+    "enUS": "Slay Mythic Princess Theradras",
+    "frFR": "Vaincre Princesse Theradras en mode Mythique"
+  },
+  {
+    "id": 2722368,
+    "enUS": "Slay Mythic Shade of Eranikus",
+    "frFR": "Vaincre Ombre d'Eranikus en mode Mythique"
+  },
+  {
+    "id": 2722368,
+    "enUS": "Slay Mythic Shade of Eranikus",
+    "frFR": "Vaincre Ombre d'Eranikus en mode Mythique"
+  },
+  {
+    "id": 2722369,
+    "enUS": "Slay Mythic Emperor Dagran Thaurissan",
+    "frFR": "Vaincre Empereur Dagran Thaurissan en mode Mythique"
+  },
+  {
+    "id": 2722369,
+    "enUS": "Slay Mythic Emperor Dagran Thaurissan",
+    "frFR": "Vaincre Empereur Dagran Thaurissan en mode Mythique"
+  },
+  {
+    "id": 2722370,
+    "enUS": "Slay Mythic Overlord Wyrmthalak",
+    "frFR": "Vaincre Seigneur Wyrmthalak en mode Mythique"
+  },
+  {
+    "id": 2722370,
+    "enUS": "Slay Mythic Overlord Wyrmthalak",
+    "frFR": "Vaincre Seigneur Wyrmthalak en mode Mythique"
+  },
+  {
+    "id": 2722371,
+    "enUS": "Slay Mythic Alzzin the Wildshaper",
+    "frFR": "Vaincre Alzzin le Modeleur en mode Mythique"
+  },
+  {
+    "id": 2722371,
+    "enUS": "Slay Mythic Alzzin the Wildshaper",
+    "frFR": "Vaincre Alzzin le Modeleur en mode Mythique"
+  },
+  {
+    "id": 2722372,
+    "enUS": "Slay Mythic Immol'thar",
+    "frFR": "Vaincre Immol'thar en mode Mythique"
+  },
+  {
+    "id": 2722372,
+    "enUS": "Slay Mythic Immol'thar",
+    "frFR": "Vaincre Immol'thar en mode Mythique"
+  },
+  {
+    "id": 2722391,
+    "enUS": "Slay Mythic King Gordok",
+    "frFR": "Vaincre Roi Gordok en mode Mythique"
+  },
+  {
+    "id": 2722391,
+    "enUS": "Slay Mythic King Gordok",
+    "frFR": "Vaincre Roi Gordok en mode Mythique"
+  },
+  {
+    "id": 2722392,
+    "enUS": "Slay Mythic Baron Rivendare",
+    "frFR": "Vaincre Baron Rivendare en mode Mythique"
+  },
+  {
+    "id": 2722392,
+    "enUS": "Slay Mythic Baron Rivendare",
+    "frFR": "Vaincre Baron Rivendare en mode Mythique"
   }
 ]

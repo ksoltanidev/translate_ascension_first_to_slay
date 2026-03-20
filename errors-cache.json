@@ -294,5 +294,53 @@
     "enUS": "First to slay Mythic Brightwing",
     "npcName": "Brightwing",
     "reason": "npc_not_found"
+  },
+  {
+    "id": 2721232,
+    "enUS": "Slay Heroic Fras Siabi",
+    "npcName": "Fras Siabi",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721238,
+    "enUS": "Slay Heroic Mr. Smite",
+    "npcName": "Mr. Smite",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721418,
+    "enUS": "Slay Heroic Galgann Firehammer",
+    "npcName": "Galgann Firehammer",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721472,
+    "enUS": "Slay Heroic Brightwing",
+    "npcName": "Brightwing",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721509,
+    "enUS": "Slay Mythic Fras Siabi",
+    "npcName": "Fras Siabi",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721515,
+    "enUS": "Slay Mythic Mr. Smite",
+    "npcName": "Mr. Smite",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721664,
+    "enUS": "Slay Mythic Galgann Firehammer",
+    "npcName": "Galgann Firehammer",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721703,
+    "enUS": "Slay Mythic Brightwing",
+    "npcName": "Brightwing",
+    "reason": "npc_not_found"
   }
 ]

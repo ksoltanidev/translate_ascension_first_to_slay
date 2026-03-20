@@ -12,6 +12,7 @@ if (!API_KEY) {
 const BATCH_SIZE = parseInt(process.env.BATCH_SIZE || "10", 10);
 const DELAY = parseInt(process.env.DELAY_BETWEEN_REQUESTS || "500", 10);
 const TREAT_SAME_AS_MISSING = process.env.TREAT_SAME_AS_MISSING === "true";
+const AMEND = process.env.AMEND === "true";
 const SEARCH_GROUP_NAME = process.env.SEARCH_GROUP || "first-to-slay";
 const GROUP = SEARCH_GROUPS[SEARCH_GROUP_NAME];
 if (!GROUP) {
@@ -148,6 +149,18 @@ async function submitTranslation(translationId, value) {
   });
 }
 
+async function amendTranslation(translationId, value) {
+  return api("/account/submissions/amend", {
+    method: "PATCH",
+    body: {
+      translation_id: translationId,
+      locale: LOCALE,
+      value,
+      submission_comment: "Amended with 'trollzcrank firstToSlay' script",
+    },
+  });
+}
+
 function loadCache() {
   if (!existsSync(CACHE_FILE)) return [];
   return JSON.parse(readFileSync(CACHE_FILE, "utf-8"));
@@ -249,6 +262,7 @@ async function safeMode() {
   const submittedIds = await loadSubmittedIds();
 
   let submitted = 0;
+  let amended = 0;
   let cached = 0;
   let skipped = 0;
   let failed = 0;
@@ -270,80 +284,97 @@ async function safeMode() {
       if (results.length === 0) break;
 
       for (const entry of results) {
+        // 1. Already submitted → skip
+        if (submittedIds.has(entry.id)) {
+          console.log(`[SKIP] Already submitted: ${entry.id}`);
+          skipped++;
+          continue;
+        }
+
+        // 2. Previously errored → skip
         if (errorIds.has(entry.id)) {
           console.log(`[SKIP] Previously errored: ${entry.id}`);
           skipped++;
           continue;
         }
 
-        // If already in cache but now can_submit, try to submit
-        if (existingIds.has(entry.id)) {
-          if (entry.can_submit && !submittedIds.has(entry.id)) {
-            const cached = cache.find((e) => e.id === entry.id);
-            if (cached?.frFR) {
-              console.log(`[${entry.id}] Retrying submit from cache...`);
-              try {
-                const res = await submitTranslation(entry.id, cached.frFR);
-                console.log(`  -> [SUBMIT] Done!`, JSON.stringify(res));
-                cache.splice(cache.indexOf(cached), 1);
-                submitted++;
-              } catch (err) {
-                console.log(`  -> [SUBMIT] Still failing: ${err.message}`);
-              }
-            }
-          } else {
-            console.log(`[SKIP] Already in cache: ${entry.id}`);
+        // 3. Resolve translation: from cache or build new
+        const cachedEntry = cache.find((e) => e.id === entry.id);
+        let translation;
+
+        if (cachedEntry?.frFR) {
+          translation = cachedEntry.frFR;
+          console.log(`[${entry.id}] From cache: ${translation}`);
+        } else {
+          const parsed = parseEntry(entry.enUS);
+          if (!parsed) {
+            console.log(`[ERROR] No pattern match: "${entry.enUS}"`);
+            errors.push({ id: entry.id, enUS: entry.enUS, reason: "no_pattern_match" });
+            errorIds.add(entry.id);
+            failed++;
+            continue;
           }
-          skipped++;
-          continue;
+
+          const { npcName, prefixFr, prefixFrSuffix, suffixFr } = parsed;
+
+          console.log(`[${entry.id}] Looking up "${npcName}"...`);
+          const npcNameFr = await resolveNpcFr(npcName);
+
+          if (!npcNameFr) {
+            console.log(`  -> [ERROR] NPC not found on Wowhead`);
+            errors.push({ id: entry.id, enUS: entry.enUS, npcName, reason: "npc_not_found" });
+            errorIds.add(entry.id);
+            failed++;
+            continue;
+          }
+
+          translation = `${prefixFr} ${npcNameFr}${prefixFrSuffix ? ` ${prefixFrSuffix}` : ""}${suffixFr}`;
+          console.log(`  -> ${translation}`);
+
+          // Store in cache for future runs
+          if (!cachedEntry) {
+            cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
+          }
         }
 
-        const parsed = parseEntry(entry.enUS);
-        if (!parsed) {
-          console.log(`[ERROR] No pattern match: "${entry.enUS}"`);
-          errors.push({ id: entry.id, enUS: entry.enUS, reason: "no_pattern_match" });
-          errorIds.add(entry.id);
-          failed++;
-          continue;
-        }
-
-        const { npcName, prefixFr, prefixFrSuffix, suffixFr } = parsed;
-
-        console.log(`[${entry.id}] Looking up "${npcName}"...`);
-        const npcNameFr = await resolveNpcFr(npcName);
-
-        if (!npcNameFr) {
-          console.log(`  -> [ERROR] NPC not found on Wowhead`);
-          errors.push({ id: entry.id, enUS: entry.enUS, npcName, reason: "npc_not_found" });
-          errorIds.add(entry.id);
-          failed++;
-          continue;
-        }
-
-        const translation = `${prefixFr} ${npcNameFr}${prefixFrSuffix ? ` ${prefixFrSuffix}` : ""}${suffixFr}`;
-        console.log(`  -> ${translation}`);
-
-        if (submittedIds.has(entry.id)) {
-          console.log(`  -> [SKIP] Already submitted (pending review)`);
-          skipped++;
-          continue;
-        } else if (entry.can_submit) {
+        // 4. Submit or amend
+        if (entry.can_submit) {
           try {
             const res = await submitTranslation(entry.id, translation);
             console.log(`  -> [SUBMIT] Done!`, JSON.stringify(res));
             submittedIds.add(entry.id);
+            // Remove from cache on success
+            const idx = cache.findIndex((e) => e.id === entry.id);
+            if (idx !== -1) cache.splice(idx, 1);
             submitted++;
           } catch (err) {
-            console.log(`  -> [SUBMIT] Failed, caching: ${err.message}`);
-            cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
-            existingIds.add(entry.id);
+            console.log(`  -> [SUBMIT] Failed: ${err.message}`);
+            failed++;
+          }
+        } else if (entry.frFR && entry.frFR !== translation) {
+          if (AMEND) {
+            try {
+              const res = await amendTranslation(entry.id, translation);
+              console.log(`  -> [AMEND] Done!`, JSON.stringify(res));
+              // TODO: If amends appears in submission list, we remove the key from the cache.
+              amended++;
+            } catch (err) {
+              console.log(`  -> [AMEND] Failed, caching: ${err.message}`);
+              if (!cachedEntry) {
+                cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
+              }
+              failed++;
+            }
+          } else {
+            console.log(`  -> [CACHE] Different translation, amend disabled`);
+            if (!cachedEntry) {
+              cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
+            }
             cached++;
           }
         } else {
-          console.log(`  -> [CACHE] Already translated (${entry.submission_status})`);
-          cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
-          existingIds.add(entry.id);
-          cached++;
+          console.log(`  -> [SKIP] Translation matches or missing`);
+          skipped++;
         }
       }
 
@@ -356,7 +387,7 @@ async function safeMode() {
     }
   }
 
-  console.log(`\nDone! Submitted: ${submitted}, Cached: ${cached}, Skipped: ${skipped}, Failed: ${failed}`);
+  console.log(`\nDone! Submitted: ${submitted}, Amended: ${amended}, Cached: ${cached}, Skipped: ${skipped}, Failed: ${failed}`);
   console.log(`Total in cache: ${cache.length}, Total errors: ${errors.length}`);
 }
 
