@@ -76,8 +76,8 @@ async function getContext(translationId) {
   return api(`/translations/${translationId}/context?${params}`);
 }
 
-async function searchTranslations(query, limit = 100) {
-  const params = new URLSearchParams({ q: query, locale: LOCALE, limit });
+async function searchTranslations(query, limit = 100, { include_untranslated = false, include_submission_status = false } = {}) {
+  const params = new URLSearchParams({ q: query, locale: LOCALE, limit, include_untranslated, include_submission_status });
   return api(`/translations/search?${params}`);
 }
 
@@ -104,7 +104,7 @@ function saveCache(entries) {
 
 async function cacheMode() {
   console.log("Fetching 'First to slay' entries...");
-  const { results } = await searchTranslations("First to slay", BATCH_SIZE);
+  const { results } = await searchTranslations("First to slay", BATCH_SIZE, { include_untranslated: true });
   console.log(`Found ${results.length} entries\n`);
 
   const cache = loadCache();
@@ -156,7 +156,10 @@ async function cacheMode() {
 
 async function safeMode() {
   console.log("[SAFE] Fetching 'First to slay' entries...");
-  const { results } = await searchTranslations("First to slay", BATCH_SIZE);
+  const { results } = await searchTranslations("First to slay", BATCH_SIZE, {
+    include_untranslated: true,
+    include_submission_status: true,
+  });
   console.log(`Found ${results.length} entries\n`);
 
   const cache = loadCache();
@@ -195,12 +198,7 @@ async function safeMode() {
     const translation = `${prefixFr} ${npcNameFr}${suffixFr}`;
     console.log(`  -> ${translation}`);
 
-    // Check if entry already has a translation in the DB
-    const ctx = await getContext(entry.id);
-    const hasOutput = ctx.output && ctx.output.trim() !== "";
-
-    if (!hasOutput) {
-      // No existing translation — submit directly
+    if (entry.can_submit) {
       try {
         const res = await submitTranslation(entry.id, translation);
         console.log(`  -> [SUBMIT] Done!`, JSON.stringify(res));
@@ -211,8 +209,7 @@ async function safeMode() {
         cached++;
       }
     } else {
-      // Existing translation — cache for later
-      console.log(`  -> [CACHE] Output exists: "${ctx.output}"`);
+      console.log(`  -> [CACHE] Already translated (${entry.submission_status})`);
       cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
       cached++;
     }
