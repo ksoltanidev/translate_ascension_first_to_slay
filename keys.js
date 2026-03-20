@@ -1,10 +1,31 @@
-// Prefixes — ordered by specificity (most specific first)
-export const PREFIXES = [
-  { en: "First to slay Rarespawn", fr: "Premier à tuer, créature rare" },
-  { en: "First to slay", fr: "Premier à tuer" },
-];
-
-// Suffixes — optional, appended after the NPC name
-export const SUFFIXES = [
-  { en: "in Nightmare Mode.", fr: "en mode Cauchemar." },
-];
+export const SEARCH_GROUPS = {
+  "first-to-slay": {
+    query: "First to slay",
+    prefixes: [
+      { en: "First to slay Rarespawn", fr: "Premier à tuer, créature rare" },
+      { en: "First to slay Heroic", fr: "Premier à tuer Héroïque" },
+      { en: "First to slay Mythic", fr: "Premier à tuer Mythique" },
+      { en: "First to slay", fr: "Premier à tuer" },
+    ],
+    suffixes: [
+      { en: "in Nightmare Mode.", fr: "en mode Cauchemar." },
+    ],
+    tables: ["achievement_criteria", "dbc_achievement", "dbc_achievement_criteria"],
+  },
+  "slay-heroic": {
+    query: "Slay Heroic",
+    prefixes: [
+      { en: "Slay Heroic", fr: "Tuez Héroïque" },
+    ],
+    suffixes: [],
+    tables: ["dbc_achievement"],
+  },
+  "slay-mythic": {
+    query: "Slay Mythic",
+    prefixes: [
+      { en: "Slay Mythic", fr: "Tuez Mythique" },
+    ],
+    suffixes: [],
+    tables: ["dbc_achievement"],
+  },
+};

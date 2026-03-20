@@ -1,0 +1,298 @@
+[
+  {
+    "id": 9869,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 9898,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 9941,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 10127,
+    "enUS": "First to slay Gamon!",
+    "npcName": "Gamon!",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 12429,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 12458,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 12501,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 15624,
+    "enUS": "First to slay Rarespawn Crusty in Nightmare Mode.",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 15653,
+    "enUS": "First to slay Rarespawn The Rot in Nightmare Mode.",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 15696,
+    "enUS": "First to slay Rarespawn Ro'Bark in Nightmare Mode.",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2694390,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2694454,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2694548,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2694920,
+    "enUS": "First to slay Gamon!",
+    "npcName": "Gamon!",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2698098,
+    "enUS": "Participated in the original release of Blackwing Lair, being the first to Slay Nefarian.",
+    "reason": "no_pattern_match"
+  },
+  {
+    "id": 2698099,
+    "enUS": "Participated in the original release of Ruins of Ahn'Qiraj, being the first to slay Ossirian the Unscarred.",
+    "reason": "no_pattern_match"
+  },
+  {
+    "id": 2698100,
+    "enUS": "Participated in the original release of Ruins of Ahn'Qiraj, being the first to slay the Old God, C'thun.",
+    "reason": "no_pattern_match"
+  },
+  {
+    "id": 2698108,
+    "enUS": "Participated in the original release of Molten Core, being the first to slay Ragnaros.",
+    "reason": "no_pattern_match"
+  },
+  {
+    "id": 2699923,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2700004,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2700099,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2705998,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2706074,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2706169,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721759,
+    "enUS": "First to slay Heroic Fras Siabi",
+    "npcName": "Fras Siabi",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721765,
+    "enUS": "First to slay Heroic Mr. Smite",
+    "npcName": "Mr. Smite",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721927,
+    "enUS": "First to slay Heroic Galgann Firehammer",
+    "npcName": "Galgann Firehammer",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2721953,
+    "enUS": "First to slay Heroic Brightwing",
+    "npcName": "Brightwing",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2722005,
+    "enUS": "First to slay Mythic Fras Siabi",
+    "npcName": "Fras Siabi",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2722011,
+    "enUS": "First to slay Mythic Mr. Smite",
+    "npcName": "Mr. Smite",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2722197,
+    "enUS": "First to slay Mythic Galgann Firehammer",
+    "npcName": "Galgann Firehammer",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2722236,
+    "enUS": "First to slay Mythic Brightwing",
+    "npcName": "Brightwing",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2742952,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2742981,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2743024,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2743210,
+    "enUS": "First to slay Gamon!",
+    "npcName": "Gamon!",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2745776,
+    "enUS": "First to slay Rarespawn Crusty",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2745805,
+    "enUS": "First to slay Rarespawn The Rot",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2745848,
+    "enUS": "First to slay Rarespawn Ro'Bark",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2750268,
+    "enUS": "First to slay Rarespawn Crusty in Nightmare Mode.",
+    "npcName": "Crusty",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2750297,
+    "enUS": "First to slay Rarespawn The Rot in Nightmare Mode.",
+    "npcName": "The Rot",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2750340,
+    "enUS": "First to slay Rarespawn Ro'Bark in Nightmare Mode.",
+    "npcName": "Ro'Bark",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766204,
+    "enUS": "First to slay Heroic Fras Siabi",
+    "npcName": "Fras Siabi",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766210,
+    "enUS": "First to slay Heroic Mr. Smite",
+    "npcName": "Mr. Smite",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766297,
+    "enUS": "First to slay Heroic Galgann Firehammer",
+    "npcName": "Galgann Firehammer",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766316,
+    "enUS": "First to slay Heroic Brightwing",
+    "npcName": "Brightwing",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766335,
+    "enUS": "First to slay Mythic Fras Siabi",
+    "npcName": "Fras Siabi",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766341,
+    "enUS": "First to slay Mythic Mr. Smite",
+    "npcName": "Mr. Smite",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766428,
+    "enUS": "First to slay Mythic Galgann Firehammer",
+    "npcName": "Galgann Firehammer",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2766447,
+    "enUS": "First to slay Mythic Brightwing",
+    "npcName": "Brightwing",
+    "reason": "npc_not_found"
+  }
+]
