@@ -1,6 +1,7 @@
 export const SEARCH_GROUPS = {
   "first-to-slay": {
     query: "First to slay",
+    parser: "prefix-npc-suffix",
     prefixes: [
       { en: "First to slay Rarespawn", fr: "Premier à tuer, créature rare" },
       { en: "First to slay Heroic", fr: "Premier à tuer Héroïque" },
@@ -14,6 +15,7 @@ export const SEARCH_GROUPS = {
   },
   "slay-heroic": {
     query: "Slay Heroic",
+    parser: "prefix-npc-suffix",
     prefixes: [
       { en: "Slay Heroic", fr: "Vaincre", frSuffix: "en mode Héroïque" },
     ],
@@ -22,10 +24,21 @@ export const SEARCH_GROUPS = {
   },
   "slay-mythic": {
     query: "Slay Mythic",
+    parser: "prefix-npc-suffix",
     prefixes: [
       { en: "Slay Mythic", fr: "Vaincre", frSuffix: "en mode Mythique" },
     ],
     suffixes: [],
     tables: ["dbc_achievement"],
+  },
+  "defeat-realm-first": {
+    query: "Defeat Realm First!",
+    parser: "defeat-realm-first",
+    tables: ["dbc_achievement"],
+    modes: [
+      { en: "Heroic", fr: "Héroïque" },
+      { en: "Mythic", fr: "Mythique" },
+      { en: "Ascended", fr: "Ascended" },
+    ],
   },
 };

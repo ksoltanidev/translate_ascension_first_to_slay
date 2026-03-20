@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import { lookupNpc } from "./wowhead.js";
-import { loadNpcCache, saveNpcCache, getCachedNpc, setCachedNpc } from "./npc-cache.js";
+import { lookupNpc } from "./lib/wowhead.js";
+import { loadNpcCache, saveNpcCache, getCachedNpc, setCachedNpc } from "./lib/npc-cache.js";
 
 const name = process.argv[2];
 const locale = process.argv[3] || "fr";

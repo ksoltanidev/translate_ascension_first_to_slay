@@ -1875,5 +1875,193 @@
   "Baron Rivendare": {
     "en": "Baron Rivendare",
     "fr": "Baron Rivendare"
+  },
+  "Attumen the Huntsman": {
+    "en": "Attumen the Huntsman",
+    "fr": "Attumen le Veneur"
+  },
+  "Moroes": {
+    "en": "Moroes",
+    "fr": "Moroes"
+  },
+  "Maiden of Virtue": {
+    "en": "Maiden of Virtue",
+    "fr": "Damoiselle de vertu"
+  },
+  "The Curator": {
+    "en": "The Curator",
+    "fr": "Le Conservateur"
+  },
+  "Terestian Illhoof": {
+    "en": "Terestian Illhoof",
+    "fr": "Terestian Malsabot"
+  },
+  "Shade of Aran": {
+    "en": "Shade of Aran",
+    "fr": "Ombre d'Aran"
+  },
+  "Netherspite": {
+    "en": "Netherspite",
+    "fr": "Dédain-du-Néant"
+  },
+  "Nightbane": {
+    "en": "Nightbane",
+    "fr": "Plaie-de-Nuit"
+  },
+  "Prince Malchezaar": {
+    "en": "Prince Malchezaar",
+    "fr": "Prince Malchezaar"
+  },
+  "Nalorakk": {
+    "en": "Nalorakk",
+    "fr": "Nalorakk"
+  },
+  "Halazzi": {
+    "en": "Halazzi",
+    "fr": "Halazzi"
+  },
+  "Hex Lord Malacrass": {
+    "en": "Hex Lord Malacrass",
+    "fr": "Seigneur des maléfices Malacrass"
+  },
+  "High King Maulgar": {
+    "en": "High King Maulgar",
+    "fr": "Haut Roi Maulgar"
+  },
+  "Gruul the Dragonkiller": {
+    "en": "Gruul the Dragonkiller",
+    "fr": "Gruul le Tue-Dragon"
+  },
+  "Magtheridon": {
+    "en": "Magtheridon",
+    "fr": "Magtheridon"
+  },
+  "Hydross the Unstable": {
+    "en": "Hydross the Unstable",
+    "fr": "Hydross l'Instable"
+  },
+  "The Lurker Below": {
+    "en": "The Lurker Below",
+    "fr": "Le Rôdeur d'En bas"
+  },
+  "Leotheras the Blind": {
+    "en": "Leotheras the Blind",
+    "fr": "Leotheras l'Aveugle"
+  },
+  "Fathom-Lord Karathress": {
+    "en": "Fathom-Lord Karathress",
+    "fr": "Seigneur des fonds Karathress"
+  },
+  "Morogrim Tidewalker": {
+    "en": "Morogrim Tidewalker",
+    "fr": "Morogrim Marcheur-des-flots"
+  },
+  "Lady Vashj": {
+    "en": "Lady Vashj",
+    "fr": "Dame Vashj"
+  },
+  "Void Reaver": {
+    "en": "Void Reaver",
+    "fr": "Saccageur du Vide"
+  },
+  "High Astromancer Solarian": {
+    "en": "High Astromancer Solarian",
+    "fr": "Grande astromancienne Solarian"
+  },
+  "Kael'thas Sunstrider": {
+    "en": "Kael'thas Sunstrider",
+    "fr": "Kael’thas Haut-Soleil"
+  },
+  "Rage Winterchill": {
+    "en": "Rage Winterchill",
+    "fr": "Rage Froidhiver"
+  },
+  "Anetheron": {
+    "en": "Anetheron",
+    "fr": "Anetheron"
+  },
+  "Kaz'rogal": {
+    "en": "Kaz'rogal",
+    "fr": "Kaz'rogal"
+  },
+  "Azgalor": {
+    "en": "Azgalor",
+    "fr": "Azgalor"
+  },
+  "Archimonde": {
+    "en": "Archimonde",
+    "fr": "Archimonde"
+  },
+  "High Warlord Naj'entus": {
+    "en": "High Warlord Naj'entus",
+    "fr": "Grand seigneur de guerre Naj'entus"
+  },
+  "Supremus": {
+    "en": "Supremus",
+    "fr": "Supremus"
+  },
+  "Shade of Akama": {
+    "en": "Shade of Akama",
+    "fr": "Ombre d’Akama"
+  },
+  "Teron Gorefiend": {
+    "en": "Teron Gorefiend",
+    "fr": "Teron Fielsang"
+  },
+  "Gurtogg Bloodboil": {
+    "en": "Gurtogg Bloodboil",
+    "fr": "Gurtogg Fièvresang"
+  },
+  "Reliquary of Souls": {
+    "en": "Reliquary of Souls",
+    "fr": "Reliquaire des âmes"
+  },
+  "Mother Shahraz": {
+    "en": "Mother Shahraz",
+    "fr": "Mère Shahraz"
+  },
+  "Illidan Stormrage": {
+    "en": "Illidan Stormrage",
+    "fr": "Illidan Hurlorage"
+  },
+  "Kalecgos": {
+    "en": "Kalecgos",
+    "fr": "Kalecgos"
+  },
+  "Brutallus": {
+    "en": "Brutallus",
+    "fr": "Brutallus"
+  },
+  "Felmyst": {
+    "en": "Felmyst",
+    "fr": "Gangrebrume"
+  },
+  "Grand Warlock Alythess": {
+    "en": "Grand Warlock Alythess",
+    "fr": "Grande démoniste Alythess"
+  },
+  "Lady Sacrolash": {
+    "en": "Lady Sacrolash",
+    "fr": "Dame Sacrocingle"
+  },
+  "M'uru": {
+    "en": "M'uru",
+    "fr": "M'uru"
+  },
+  "Zul'Jin": {
+    "en": "Zul'Jin",
+    "fr": "Zul'jin"
+  },
+  "Jan'alai": {
+    "en": "Jan'alai",
+    "fr": "Jan'alai"
+  },
+  "Akil'zon": {
+    "en": "Akil'zon",
+    "fr": "Akil'zon"
+  },
+  "Kil'Jaeden": {
+    "en": "Kil'Jaeden",
+    "fr": "Kil'jaeden"
   }
 }

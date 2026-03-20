@@ -342,5 +342,143 @@
     "enUS": "Slay Mythic Brightwing",
     "npcName": "Brightwing",
     "reason": "npc_not_found"
+  },
+  {
+    "id": 2702258,
+    "enUS": "Defeat Realm First! Heroic: Al'ar in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2702306,
+    "enUS": "Defeat Realm First! Heroic: Sathrovarr in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2702362,
+    "enUS": "Defeat Realm First! Ascended: Al'ar (10 Player) in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2702416,
+    "enUS": "Defeat Realm First! Ascended: Sathrovarr (10 Player) in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2702479,
+    "enUS": "Defeat Realm First! Ascended: Al'ar (25 Player) in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2702528,
+    "enUS": "Defeat Realm First! Ascended: Sathrovarr (25 Player) in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2703865,
+    "enUS": "Defeat Realm First! Al'ar in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2703906,
+    "enUS": "Defeat Realm First! Illidari Council in Black Temple.",
+    "npcName": "Illidari Council",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2703909,
+    "enUS": "Defeat Realm First! Sathrovarr in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704279,
+    "enUS": "Defeat Realm First! Al'ar in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704295,
+    "enUS": "Defeat Realm First! Illidari Council in Black Temple.",
+    "npcName": "Illidari Council",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704298,
+    "enUS": "Defeat Realm First! Sathrovarr in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704380,
+    "enUS": "Defeat Realm First! Heroic: Al'ar (10 Player) in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704396,
+    "enUS": "Defeat Realm First! Heroic: Illidari Council (10 Player) in Black Temple.",
+    "npcName": "Illidari Council",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704399,
+    "enUS": "Defeat Realm First! Heroic: Sathrovarr (10 Player) in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704485,
+    "enUS": "Defeat Realm First! Heroic: Al'ar (25 Player) in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704530,
+    "enUS": "Defeat Realm First! Heroic: Illidari Council (25 Player) in Black Temple.",
+    "npcName": "Illidari Council",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2704533,
+    "enUS": "Defeat Realm First! Heroic: Sathrovarr (25 Player) in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2714002,
+    "enUS": "Defeat Realm First! Mythic: Al'ar in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2714024,
+    "enUS": "Defeat Realm First! Mythic: Sathrovarr in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2714171,
+    "enUS": "Defeat Realm First! Mythic: Al'ar in Tempest Keep.",
+    "npcName": "Al'ar",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2714187,
+    "enUS": "Defeat Realm First! Mythic: Illidari Council in Black Temple.",
+    "npcName": "Illidari Council",
+    "reason": "npc_not_found"
+  },
+  {
+    "id": 2714190,
+    "enUS": "Defeat Realm First! Mythic: Sathrovarr in Sunwell Plateau.",
+    "npcName": "Sathrovarr",
+    "reason": "npc_not_found"
   }
 ]
