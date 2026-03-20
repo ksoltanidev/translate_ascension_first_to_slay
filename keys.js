@@ -15,7 +15,7 @@ export const SEARCH_GROUPS = {
   "slay-heroic": {
     query: "Slay Heroic",
     prefixes: [
-      { en: "Slay Heroic", fr: "Tuez Héroïque" },
+      { en: "Slay Heroic", fr: "Vaincre", frSuffix: "en Héroïque" },
     ],
     suffixes: [],
     tables: ["dbc_achievement"],
@@ -23,7 +23,7 @@ export const SEARCH_GROUPS = {
   "slay-mythic": {
     query: "Slay Mythic",
     prefixes: [
-      { en: "Slay Mythic", fr: "Tuez Mythique" },
+      { en: "Slay Mythic", fr: "Vaincre", frSuffix: "en Mythique" },
     ],
     suffixes: [],
     tables: ["dbc_achievement"],

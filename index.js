@@ -58,7 +58,7 @@ function parseEntry(text) {
       }
     }
 
-    return { npcName: rest, prefixFr: prefix.fr, suffixFr };
+    return { npcName: rest, prefixFr: prefix.fr, prefixFrSuffix: prefix.frSuffix || "", suffixFr };
   }
   return null;
 }
@@ -207,7 +207,7 @@ async function cacheMode() {
           continue;
         }
 
-        const { npcName, prefixFr, suffixFr } = parsed;
+        const { npcName, prefixFr, prefixFrSuffix, suffixFr } = parsed;
 
         console.log(`[${entry.id}] Looking up "${npcName}"...`);
         const npcNameFr = await resolveNpcFr(npcName);
@@ -220,7 +220,7 @@ async function cacheMode() {
           continue;
         }
 
-        const translation = `${prefixFr} ${npcNameFr}${suffixFr}`;
+        const translation = `${prefixFr} ${npcNameFr}${prefixFrSuffix ? ` ${prefixFrSuffix}` : ""}${suffixFr}`;
         console.log(`  -> ${translation}`);
 
         cache.push({ id: entry.id, enUS: entry.enUS, frFR: translation });
@@ -307,7 +307,7 @@ async function safeMode() {
           continue;
         }
 
-        const { npcName, prefixFr, suffixFr } = parsed;
+        const { npcName, prefixFr, prefixFrSuffix, suffixFr } = parsed;
 
         console.log(`[${entry.id}] Looking up "${npcName}"...`);
         const npcNameFr = await resolveNpcFr(npcName);
@@ -320,7 +320,7 @@ async function safeMode() {
           continue;
         }
 
-        const translation = `${prefixFr} ${npcNameFr}${suffixFr}`;
+        const translation = `${prefixFr} ${npcNameFr}${prefixFrSuffix ? ` ${prefixFrSuffix}` : ""}${suffixFr}`;
         console.log(`  -> ${translation}`);
 
         if (submittedIds.has(entry.id)) {
